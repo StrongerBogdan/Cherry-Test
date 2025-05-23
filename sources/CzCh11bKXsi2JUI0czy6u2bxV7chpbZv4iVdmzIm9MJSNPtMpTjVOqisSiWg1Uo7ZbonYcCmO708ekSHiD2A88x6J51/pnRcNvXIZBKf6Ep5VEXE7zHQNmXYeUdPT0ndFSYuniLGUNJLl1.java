@@ -1,0 +1,7 @@
+package CzCh11bKXsi2JUI0czy6u2bxV7chpbZv4iVdmzIm9MJSNPtMpTjVOqisSiWg1Uo7ZbonYcCmO708ekSHiD2A88x6J51;
+
+public interface pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1 {
+    LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5 GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT();
+
+    void yY0Yc5sPaZSYCL0bdTcevx7ABnXkQlKd3EpshlFldxtWb01ZPTjz2XoFnsZBK8oCDGLLaHFtrvKumkvfV0W(Object obj);
+}

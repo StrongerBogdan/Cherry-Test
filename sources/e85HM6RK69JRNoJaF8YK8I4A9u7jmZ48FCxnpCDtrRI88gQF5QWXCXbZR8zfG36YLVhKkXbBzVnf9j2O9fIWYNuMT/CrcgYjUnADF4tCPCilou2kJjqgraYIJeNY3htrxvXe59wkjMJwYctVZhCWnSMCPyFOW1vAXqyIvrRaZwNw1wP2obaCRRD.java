@@ -1,0 +1,12 @@
+package e85HM6RK69JRNoJaF8YK8I4A9u7jmZ48FCxnpCDtrRI88gQF5QWXCXbZR8zfG36YLVhKkXbBzVnf9j2O9fIWYNuMT;
+
+import android.app.job.JobParameters;
+import android.content.Intent;
+
+public interface CrcgYjUnADF4tCPCilou2kJjqgraYIJeNY3htrxvXe59wkjMJwYctVZhCWnSMCPyFOW1vAXqyIvrRaZwNw1wP2obaCRRD {
+    void DrqQ8C7rtVRDTSclHGsDImq(Intent intent);
+
+    boolean P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(int i);
+
+    void YmFIHVAy6MFnHbke10dLWI57IXCp(JobParameters jobParameters);
+}

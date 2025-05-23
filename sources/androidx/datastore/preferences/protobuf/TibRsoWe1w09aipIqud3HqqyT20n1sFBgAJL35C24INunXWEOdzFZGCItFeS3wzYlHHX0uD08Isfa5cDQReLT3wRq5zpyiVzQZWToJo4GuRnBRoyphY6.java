@@ -1,0 +1,16 @@
+package androidx.datastore.preferences.protobuf;
+
+public enum TibRsoWe1w09aipIqud3HqqyT20n1sFBgAJL35C24INunXWEOdzFZGCItFeS3wzYlHHX0uD08Isfa5cDQReLT3wRq5zpyiVzQZWToJo4GuRnBRoyphY6 {
+    STRING(w82utHiXkCH7tL0AIXUL3sTOhkWbEwYmPMOZ9XUqDTRkl8VCPjqeA5toj575PI1FdWH1TdBVL4SiM7wPfY2LJQKEdmkbtMklZSQKpeQZpjg0WalcVvyC7rHQii9xuSdelO.STRING, 2),
+    GROUP(r14, 3),
+    MESSAGE(r14, 2);
+    
+    public final int Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw;
+    public final w82utHiXkCH7tL0AIXUL3sTOhkWbEwYmPMOZ9XUqDTRkl8VCPjqeA5toj575PI1FdWH1TdBVL4SiM7wPfY2LJQKEdmkbtMklZSQKpeQZpjg0WalcVvyC7rHQii9xuSdelO xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+
+    /* access modifiers changed from: public */
+    TibRsoWe1w09aipIqud3HqqyT20n1sFBgAJL35C24INunXWEOdzFZGCItFeS3wzYlHHX0uD08Isfa5cDQReLT3wRq5zpyiVzQZWToJo4GuRnBRoyphY6(w82utHiXkCH7tL0AIXUL3sTOhkWbEwYmPMOZ9XUqDTRkl8VCPjqeA5toj575PI1FdWH1TdBVL4SiM7wPfY2LJQKEdmkbtMklZSQKpeQZpjg0WalcVvyC7rHQii9xuSdelO w82uthixkch7tl0aixul3stohkwbewympmoz9xuqdtrkl8vcpjqea5toj575pi1fdwh1tdbvl4sim7wpfy2ljqkedmkbtmklzsqkpeqzpjg0walcvvyc7rhqii9xusdelo, int i) {
+        this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9 = w82uthixkch7tl0aixul3stohkwbewympmoz9xuqdtrkl8vcpjqea5toj575pi1fdwh1tdbvl4sim7wpfy2ljqkedmkbtmklzsqkpeqzpjg0walcvvyc7rhqii9xusdelo;
+        this.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw = i;
+    }
+}

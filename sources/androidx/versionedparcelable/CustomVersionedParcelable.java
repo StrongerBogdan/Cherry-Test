@@ -1,0 +1,6 @@
+package androidx.versionedparcelable;
+
+import B2LtVfQo6YymAHBWxVzd1qW30Tg4k5eqAoy3dUXwfow1x5jXjdrQNWTph7EVEdlupikpK2rEciGrM2PdC8b8HPzgzDJSQTQRjGfzcRp3ZThmUkjBWCoNeIY.pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1;
+
+public abstract class CustomVersionedParcelable implements pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1 {
+}

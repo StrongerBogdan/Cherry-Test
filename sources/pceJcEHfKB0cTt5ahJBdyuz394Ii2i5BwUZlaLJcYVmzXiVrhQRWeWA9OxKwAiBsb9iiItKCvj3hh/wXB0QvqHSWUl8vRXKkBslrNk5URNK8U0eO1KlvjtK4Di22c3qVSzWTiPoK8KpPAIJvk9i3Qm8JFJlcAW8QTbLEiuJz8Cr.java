@@ -1,0 +1,5 @@
+package pceJcEHfKB0cTt5ahJBdyuz394Ii2i5BwUZlaLJcYVmzXiVrhQRWeWA9OxKwAiBsb9iiItKCvj3hh;
+
+public interface wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+    StackTraceElement[] peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6(StackTraceElement[] stackTraceElementArr);
+}

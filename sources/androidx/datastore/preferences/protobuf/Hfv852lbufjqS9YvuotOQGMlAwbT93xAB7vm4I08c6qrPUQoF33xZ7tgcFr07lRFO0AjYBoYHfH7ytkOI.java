@@ -1,0 +1,7 @@
+package androidx.datastore.preferences.protobuf;
+
+public final class Hfv852lbufjqS9YvuotOQGMlAwbT93xAB7vm4I08c6qrPUQoF33xZ7tgcFr07lRFO0AjYBoYHfH7ytkOI implements asQX8JK5HmDXPcoA9YxLn7cpuBp3KP6Kb3odxWwo12KJ5d8EadSLwry1kNCpB2BMyI1q8ppamvM7V8TMZX0u4yLfB75z4Zfx44zbxotyq8ZtBder4E2Ym1q0028YzDwhrBpztS4K5wnrw39ja {
+    static {
+        nRMC9Erc6zQnYYVz2bwsPrzEcEHGBynoeOtZAeuJf8ASDz5eovfPgPCoC.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d();
+    }
+}

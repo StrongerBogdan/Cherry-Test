@@ -1,0 +1,10 @@
+package pqE5I4H2lZeKSNrTtWCcL6p4p2jKTUvH4MK4sQrNVqu4irQ2cVrCwGJcSIDD2BqppVEpYvV6sl;
+
+import android.media.MediaDataSource;
+import android.media.MediaMetadataRetriever;
+
+public abstract class LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5 {
+    public static void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(MediaMetadataRetriever mediaMetadataRetriever, MediaDataSource mediaDataSource) {
+        mediaMetadataRetriever.setDataSource(mediaDataSource);
+    }
+}

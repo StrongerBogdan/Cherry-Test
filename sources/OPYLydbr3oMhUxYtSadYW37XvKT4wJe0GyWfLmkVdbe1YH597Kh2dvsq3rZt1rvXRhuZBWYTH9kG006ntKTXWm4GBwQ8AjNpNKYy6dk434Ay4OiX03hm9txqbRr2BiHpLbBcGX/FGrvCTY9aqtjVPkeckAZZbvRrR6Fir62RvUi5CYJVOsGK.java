@@ -1,0 +1,5 @@
+package OPYLydbr3oMhUxYtSadYW37XvKT4wJe0GyWfLmkVdbe1YH597Kh2dvsq3rZt1rvXRhuZBWYTH9kG006ntKTXWm4GBwQ8AjNpNKYy6dk434Ay4OiX03hm9txqbRr2BiHpLbBcGX;
+
+public interface FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK {
+    void H0pSch9XQw75sQDNHGRLAUbXt3bOxqOZ(bB0JGyaj0AO2i7E0aMlb1Y1AZ4X4bcNstSNc5YGcAxOCf bb0jgyaj0ao2i7e0amlb1y1az4x4bcnstsnc5ygcaxocf);
+}

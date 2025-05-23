@@ -1,0 +1,9 @@
+package kfLVQOQ5ZaHf22AThS2NU1uk9bVT8Vjb05Ra0VBxI7g7m1VHjzsZTPOevdDPOD;
+
+import android.app.Notification;
+
+public abstract class D8GgZbzcKj5rilKnkj8e7mJ1giKXr7PVzF6Rm3iAMV12GPJFjJsP85ro8B5TqnDd3HSKa30yTfOnQUxiSzoUz76iRkaUnM8auyBFxe5kbLQOgcMjtAdyoJ8gOPES2QZYZSBpUK6Mt0I5HQrX8aYczk {
+    public static void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(Notification.Action.Builder builder) {
+        builder.setAuthenticationRequired(false);
+    }
+}

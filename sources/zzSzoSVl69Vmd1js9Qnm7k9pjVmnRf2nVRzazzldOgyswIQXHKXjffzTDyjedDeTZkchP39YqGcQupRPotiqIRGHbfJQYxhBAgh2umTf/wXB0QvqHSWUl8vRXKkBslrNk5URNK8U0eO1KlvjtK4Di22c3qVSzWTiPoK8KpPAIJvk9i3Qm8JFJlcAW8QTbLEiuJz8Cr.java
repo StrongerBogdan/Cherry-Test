@@ -1,0 +1,4 @@
+package zzSzoSVl69Vmd1js9Qnm7k9pjVmnRf2nVRzazzldOgyswIQXHKXjffzTDyjedDeTZkchP39YqGcQupRPotiqIRGHbfJQYxhBAgh2umTf;
+
+public @interface wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+}

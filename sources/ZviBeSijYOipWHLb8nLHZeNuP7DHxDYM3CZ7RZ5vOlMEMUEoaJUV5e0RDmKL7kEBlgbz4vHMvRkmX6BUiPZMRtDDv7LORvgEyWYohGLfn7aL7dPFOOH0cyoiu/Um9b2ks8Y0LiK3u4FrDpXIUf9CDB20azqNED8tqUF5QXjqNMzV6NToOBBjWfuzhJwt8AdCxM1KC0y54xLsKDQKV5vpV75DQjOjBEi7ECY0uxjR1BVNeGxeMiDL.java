@@ -1,0 +1,10 @@
+package ZviBeSijYOipWHLb8nLHZeNuP7DHxDYM3CZ7RZ5vOlMEMUEoaJUV5e0RDmKL7kEBlgbz4vHMvRkmX6BUiPZMRtDDv7LORvgEyWYohGLfn7aL7dPFOOH0cyoiu;
+
+import android.app.Activity;
+import android.content.Intent;
+
+public interface Um9b2ks8Y0LiK3u4FrDpXIUf9CDB20azqNED8tqUF5QXjqNMzV6NToOBBjWfuzhJwt8AdCxM1KC0y54xLsKDQKV5vpV75DQjOjBEi7ECY0uxjR1BVNeGxeMiDLdAwy33RHeQ9vkNdSttO818vnfVccP8CWp {
+    void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(Intent intent, int i);
+
+    Activity YmFIHVAy6MFnHbke10dLWI57IXCp();
+}

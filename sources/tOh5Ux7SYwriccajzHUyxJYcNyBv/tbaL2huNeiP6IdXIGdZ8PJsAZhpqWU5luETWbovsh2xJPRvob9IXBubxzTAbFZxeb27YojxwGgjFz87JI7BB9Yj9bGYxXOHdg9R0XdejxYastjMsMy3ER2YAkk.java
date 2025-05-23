@@ -1,0 +1,7 @@
+package tOh5Ux7SYwriccajzHUyxJYcNyBv;
+
+import java.nio.charset.Charset;
+
+public abstract class tbaL2huNeiP6IdXIGdZ8PJsAZhpqWU5luETWbovsh2xJPRvob9IXBubxzTAbFZxeb27YojxwGgjFz87JI7BB9Yj9bGYxXOHdg9R0XdejxYastjMsMy3ER2YAkkmDNhQ31Eel {
+    public static final Charset P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = Charset.forName("UTF-8");
+}

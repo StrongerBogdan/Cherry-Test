@@ -1,0 +1,4 @@
+package com.google.android.gms.internal.measurement;
+
+public final class S2Ri8niwfzN3JsWXHIeaZKJcTD3T5qxPNdcTILo6eIfap15OdilTILbEMoMDQXvt4Xki8wZAjsp3BYHnNxr1Cy9v81e9z5B6UKCLeMIH extends Exception {
+}

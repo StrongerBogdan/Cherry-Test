@@ -1,0 +1,5 @@
+package WjYk3b2OCvatudq8ZkRHTkYcELREZL1bb7GVqBL97L;
+
+public final class M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh {
+    public static final /* synthetic */ M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = new Object();
+}

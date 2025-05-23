@@ -1,0 +1,9 @@
+package androidx.datastore.preferences.protobuf;
+
+public abstract class wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+    protected int memoizedHashCode;
+
+    public abstract int P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(PktwfYqfDirnUtRXQN2vMKvIDc32F7Ty5nAWT83nNh8W pktwfYqfDirnUtRXQN2vMKvIDc32F7Ty5nAWT83nNh8W);
+
+    public abstract void YmFIHVAy6MFnHbke10dLWI57IXCp(NrRzqnkwNu0nnqBOm1PWjgXM1XJmOU4AUNIao5PXqr65iPoidXJXhn2k0kJ93 nrRzqnkwNu0nnqBOm1PWjgXM1XJmOU4AUNIao5PXqr65iPoidXJXhn2k0kJ93);
+}

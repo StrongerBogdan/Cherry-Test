@@ -1,0 +1,4 @@
+package TheMN4viTPXHSsdzkHSX0KWK1AeowrOzwowUxL4grpDCBBUD845hTgGq8WotLO0ZU0UGv5jYDV;
+
+public interface FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK extends LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA {
+}

@@ -1,0 +1,17 @@
+package Wdifhqd1IWf4CI4lVc5An8O3A6Hv;
+
+import android.view.View;
+import android.widget.Magnifier;
+import zDR6Pw93omRkQ9CN5cEqZ7ZUuCHt9XWX2s1LKFEODhW3WjDAvh0AxwhFURtAiRn9NGQQIrAym52uuTD4uSBs7B4NIm0YE0qFlpZ6voaBk3lz6h627SIHozfEy2eLTiyxe.LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA;
+
+public final class Ok9jcYAy1dWKtbzfZaJufrEBY5Bu9fOF3Qsk76ZcfKpAilukWE21KNkYS93snaKr implements TQcZ764YYWhMhOvLAII8l0vIffdyWviENaQS1DIwYI7PaBQ4Epqq6ysCOTnNR9YXlcWBPK9CnS4MN {
+    public static final Ok9jcYAy1dWKtbzfZaJufrEBY5Bu9fOF3Qsk76ZcfKpAilukWE21KNkYS93snaKr P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = new Object();
+
+    public final boolean P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d() {
+        return false;
+    }
+
+    public final zStuoHpnMIHxBnXJToxC6ooO09XlWHvJkE5I32xa9LkRFl7mjmosSVnwGfaCbRAUVHx2sX4 YmFIHVAy6MFnHbke10dLWI57IXCp(View view, boolean z, long j, float f, float f2, boolean z2, LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA lKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA, float f3) {
+        return new Jkck4tyMRqw4KS7fdzysA1QM1p6LiMd0MqjnrUvt0vyGgPbAGpSxpXXz0re4C8rlzUQVDH89lnfN57ty9FRqj3P(new Magnifier(view));
+    }
+}

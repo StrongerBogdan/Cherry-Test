@@ -1,0 +1,27 @@
+package n0Nob8PjUDvjS3MA1laYEKgg2KhpHyRdg4EJbcTJwJWDw9GkhhD6fHSYFBxa;
+
+import zDR6Pw93omRkQ9CN5cEqZ7ZUuCHt9XWX2s1LKFEODhW3WjDAvh0AxwhFURtAiRn9NGQQIrAym52uuTD4uSBs7B4NIm0YE0qFlpZ6voaBk3lz6h627SIHozfEy2eLTiyxe.LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA;
+
+public final class o2hA8ss1Wbxq5cBLuCr0YWJ5ITTYp3e3NkuxjNV1vEnEQHOqIqqYubLqArZIDZADaGDUms3351o8KgYLNn0So0kNRz4asQ3wqJ89zrZZezjnSgAzxgjXlgnZyyI3D7c7A {
+    public final float P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+    public final float YmFIHVAy6MFnHbke10dLWI57IXCp;
+
+    public o2hA8ss1Wbxq5cBLuCr0YWJ5ITTYp3e3NkuxjNV1vEnEQHOqIqqYubLqArZIDZADaGDUms3351o8KgYLNn0So0kNRz4asQ3wqJ89zrZZezjnSgAzxgjXlgnZyyI3D7c7A(float f, LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA lKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA) {
+        this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = f;
+        float DrqQ8C7rtVRDTSclHGsDImq = lKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA.DrqQ8C7rtVRDTSclHGsDImq();
+        float f2 = S9YugTPzExfo3SDiUstGWx3eKtjcwCa6rTGotFX.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+        this.YmFIHVAy6MFnHbke10dLWI57IXCp = DrqQ8C7rtVRDTSclHGsDImq * 386.0878f * 160.0f * 0.84f;
+    }
+
+    public final plBAtfzEVoIiOxmSnMxkpPiJx4OtWt23xs0cyaAy1hUFR6EUWEPtXjieR8yd4CJeFu3nG6nINmSzRJWsV7dIrmvJMWr38UkMlVTGSxwzTtM5DI9EuTnCCdMazLkRODnvHUo P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(float f) {
+        double YmFIHVAy6MFnHbke10dLWI57IXCp2 = YmFIHVAy6MFnHbke10dLWI57IXCp(f);
+        double d = (double) S9YugTPzExfo3SDiUstGWx3eKtjcwCa6rTGotFX.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+        double d2 = d - 1.0d;
+        return new plBAtfzEVoIiOxmSnMxkpPiJx4OtWt23xs0cyaAy1hUFR6EUWEPtXjieR8yd4CJeFu3nG6nINmSzRJWsV7dIrmvJMWr38UkMlVTGSxwzTtM5DI9EuTnCCdMazLkRODnvHUo(f, (float) (Math.exp((d / d2) * YmFIHVAy6MFnHbke10dLWI57IXCp2) * ((double) (this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d * this.YmFIHVAy6MFnHbke10dLWI57IXCp))), (long) (Math.exp(YmFIHVAy6MFnHbke10dLWI57IXCp2 / d2) * 1000.0d));
+    }
+
+    public final double YmFIHVAy6MFnHbke10dLWI57IXCp(float f) {
+        float[] fArr = LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+        return Math.log(((double) (Math.abs(f) * 0.35f)) / ((double) (this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d * this.YmFIHVAy6MFnHbke10dLWI57IXCp)));
+    }
+}

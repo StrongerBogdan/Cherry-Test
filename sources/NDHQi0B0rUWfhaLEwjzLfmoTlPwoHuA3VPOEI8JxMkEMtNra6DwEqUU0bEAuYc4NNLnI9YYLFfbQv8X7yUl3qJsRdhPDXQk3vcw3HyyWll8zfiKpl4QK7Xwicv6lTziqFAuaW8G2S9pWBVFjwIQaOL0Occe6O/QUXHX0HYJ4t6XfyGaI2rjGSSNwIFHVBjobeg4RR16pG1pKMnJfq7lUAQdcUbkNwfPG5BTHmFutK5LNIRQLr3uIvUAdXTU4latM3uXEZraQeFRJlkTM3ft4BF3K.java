@@ -1,0 +1,8 @@
+package NDHQi0B0rUWfhaLEwjzLfmoTlPwoHuA3VPOEI8JxMkEMtNra6DwEqUU0bEAuYc4NNLnI9YYLFfbQv8X7yUl3qJsRdhPDXQk3vcw3HyyWll8zfiKpl4QK7Xwicv6lTziqFAuaW8G2S9pWBVFjwIQaOL0Occe6O;
+
+public interface QUXHX0HYJ4t6XfyGaI2rjGSSNwIFHVBjobeg4RR16pG1pKMnJfq7lUAQdcUbkNwfPG5BTHmFutK5LNIRQLr3uIvUAdXTU4latM3uXEZraQeFRJlkTM3ft4BF3KRAP3XIn4t78ilWPnmR44WevxKiI extends M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh {
+    void GF2IYHRYKmRutnxajYn7iBDVMjgii() {
+    }
+
+    void H0pSch9XQw75sQDNHGRLAUbXt3bOxqOZ(S9YugTPzExfo3SDiUstGWx3eKtjcwCa6rTGotFX s9YugTPzExfo3SDiUstGWx3eKtjcwCa6rTGotFX);
+}

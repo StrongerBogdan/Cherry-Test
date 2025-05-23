@@ -1,0 +1,9 @@
+package SwBSpQxkManpfobF6S0xsWwqFDZK5TKORUYviTLfIDtyKrqnf8tsQ7UtcCyWUHPVeJIWoHjGd5mIfx21qyhZuzPcrsxiHE;
+
+import android.view.inputmethod.EditorInfo;
+
+public abstract class wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+    public static void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(EditorInfo editorInfo, boolean z) {
+        editorInfo.setStylusHandwritingEnabled(z);
+    }
+}

@@ -1,0 +1,4 @@
+package HevDK09eybta9sIedOWa4gOXscsiOfP7kXok89N8k5kpHcz66ug1uFgw5377IUVchzbWWplKR3v6Pq;
+
+public interface wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+}

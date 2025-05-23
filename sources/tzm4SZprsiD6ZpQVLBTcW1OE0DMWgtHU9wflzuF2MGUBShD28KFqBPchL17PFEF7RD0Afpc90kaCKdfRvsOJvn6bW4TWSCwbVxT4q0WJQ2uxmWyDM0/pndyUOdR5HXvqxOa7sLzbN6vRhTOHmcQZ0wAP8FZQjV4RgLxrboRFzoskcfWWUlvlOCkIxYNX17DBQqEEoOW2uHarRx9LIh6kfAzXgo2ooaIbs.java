@@ -1,0 +1,5 @@
+package tzm4SZprsiD6ZpQVLBTcW1OE0DMWgtHU9wflzuF2MGUBShD28KFqBPchL17PFEF7RD0Afpc90kaCKdfRvsOJvn6bW4TWSCwbVxT4q0WJQ2uxmWyDM0;
+
+public interface pndyUOdR5HXvqxOa7sLzbN6vRhTOHmcQZ0wAP8FZQjV4RgLxrboRFzoskcfWWUlvlOCkIxYNX17DBQqEEoOW2uHarRx9LIh6kfAzXgo2ooaIbs extends rvh43jacaJiH3b3o9XeSMDe544 {
+    Object getValue();
+}

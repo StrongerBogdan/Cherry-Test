@@ -1,0 +1,29 @@
+package e85HM6RK69JRNoJaF8YK8I4A9u7jmZ48FCxnpCDtrRI88gQF5QWXCXbZR8zfG36YLVhKkXbBzVnf9j2O9fIWYNuMT;
+
+import HevDK09eybta9sIedOWa4gOXscsiOfP7kXok89N8k5kpHcz66ug1uFgw5377IUVchzbWWplKR3v6Pq.LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5;
+import android.os.Parcel;
+import android.os.Parcelable;
+import tBT9xzRfBwxPjkowGxdF8bHlTfUMXSM7EZnqqXuvjCYyatiEvDwVlntzMIJyiJ9wcCwzZKBwmxEhNIaieJbKxJkN6I1XjOGV6FgXrwdebhMCsWY.wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr;
+
+public final class cvvhoa5DMn0j9GwRAonAuign0ywGX extends wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+    public static final Parcelable.Creator<cvvhoa5DMn0j9GwRAonAuign0ywGX> CREATOR = new pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1(4);
+    public final int GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT;
+    public final long Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw;
+    public final String xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+
+    public cvvhoa5DMn0j9GwRAonAuign0ywGX(int i, long j, String str) {
+        this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9 = str;
+        this.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw = j;
+        this.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT = i;
+    }
+
+    public final void writeToParcel(Parcel parcel, int i) {
+        int YJE1fAnlwv2CfGEvHRCxigI9imjUpKclKsZMy6U1X5F32vwV6QlWrnO7G02stIRuclbkqJwaYuP7RQLhqVYca32cZdf51j1yJpFwhdWJlTmgG3GsWHwMh1ww5ieBxUqvah = LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5.YJE1fAnlwv2CfGEvHRCxigI9imjUpKclKsZMy6U1X5F32vwV6QlWrnO7G02stIRuclbkqJwaYuP7RQLhqVYca32cZdf51j1yJpFwhdWJlTmgG3GsWHwMh1ww5ieBxUqvah(parcel, 20293);
+        LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5.WRObhtynMBUtwAaVkhNgquvo2GoPRHnlAqDMCovAg7G3UDfXgJj98Mc2FI0(parcel, 1, this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9);
+        LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5.fFqIsJKfHjBDwU79lNmK3Ur3NkuxOx54lFxdfXRKkDiym5pLfc7qhQUGLF1l4PgotAM7T52yuH(parcel, 2, 8);
+        parcel.writeLong(this.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw);
+        LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5.fFqIsJKfHjBDwU79lNmK3Ur3NkuxOx54lFxdfXRKkDiym5pLfc7qhQUGLF1l4PgotAM7T52yuH(parcel, 3, 4);
+        parcel.writeInt(this.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT);
+        LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5.WkZ5gh62lRvN31eFs9DfhynvWDgx9XP2XPjuzezjs7JHLZZmRr7jUi5cRavkAThYQz3YrUFwRBd4AGxBx3lSWUHAvDbIlbMl87qxGOLba8JEwtHlCo0FJ8Fp4iTt0lEsBwh(parcel, YJE1fAnlwv2CfGEvHRCxigI9imjUpKclKsZMy6U1X5F32vwV6QlWrnO7G02stIRuclbkqJwaYuP7RQLhqVYca32cZdf51j1yJpFwhdWJlTmgG3GsWHwMh1ww5ieBxUqvah);
+    }
+}

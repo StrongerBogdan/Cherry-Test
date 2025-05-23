@@ -1,0 +1,49 @@
+package WZzKBFiavuBbEH9SEUHXa4D4PUPTrJheXkN1sV5I7LfyT;
+
+import FR5EjxHMlnhgT4g3Cx4ZlPTPTuR7VSyr9dS4OVpMDfBHg2BGe3HbA1bXzNKGQKMp0i40dVoHiWcnjoEpq4vvipBd2.LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA;
+
+public final class yYB09n8MJJV5AOyvwYNah2OjE3b4cVYa5dGXdqS1Q6 implements EDYGeGl7TvaNbwx1FSGopSwoCSRNMdKKVTzQWlT8XMFQVuEyDtfSCaS1OIGIKSJ1kfrnBzBtUA5ncrubViuvwoK6A5ARvx04cbCBc5SIGxS0KFg3Ee7EWv5N8Ff1kOza4v27yCNMdYezAG92MkC {
+    public final long GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT;
+    public final int Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw;
+    public final long uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8;
+    public final LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+
+    public yYB09n8MJJV5AOyvwYNah2OjE3b4cVYa5dGXdqS1Q6(LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA lKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA, int i, long j) {
+        this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9 = lKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA;
+        this.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw = i;
+        this.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT = ((long) (lKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA.DrqQ8C7rtVRDTSclHGsDImq() + lKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA.YmFIHVAy6MFnHbke10dLWI57IXCp())) * 1000000;
+        this.uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8 = j * 1000000;
+    }
+
+    public final gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG DrqQ8C7rtVRDTSclHGsDImq(long j, gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig, gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig2, gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig3) {
+        long j2 = this.uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8;
+        long j3 = this.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT;
+        return j + j2 > j3 ? this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9.peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6(j3 - j2, gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig, gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig3, gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig2) : gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig2;
+    }
+
+    public final boolean P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d() {
+        return true;
+    }
+
+    public final long VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU(gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig, gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig2, gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig3) {
+        return Long.MAX_VALUE;
+    }
+
+    public final long YmFIHVAy6MFnHbke10dLWI57IXCp(long j) {
+        long j2 = j + this.uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8;
+        if (j2 <= 0) {
+            return 0;
+        }
+        long j3 = this.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT;
+        long j4 = j2 / j3;
+        return (this.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw == 1 || j4 % ((long) 2) == 0) ? j2 - (j4 * j3) : ((j4 + 1) * j3) - j2;
+    }
+
+    public final gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6(long j, gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig, gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig2, gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig3) {
+        return this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9.peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6(YmFIHVAy6MFnHbke10dLWI57IXCp(j), gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig, gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig2, DrqQ8C7rtVRDTSclHGsDImq(j, gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig, gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig3, gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig2));
+    }
+
+    public final gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG uOyBevV98ltUOUilp7DoFm42UWPOTxVsABEgMe8CCuScERPxr2BKOn(long j, gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig, gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig2, gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig3) {
+        return this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9.uOyBevV98ltUOUilp7DoFm42UWPOTxVsABEgMe8CCuScERPxr2BKOn(YmFIHVAy6MFnHbke10dLWI57IXCp(j), gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig, gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig2, DrqQ8C7rtVRDTSclHGsDImq(j, gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig, gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig3, gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig2));
+    }
+}

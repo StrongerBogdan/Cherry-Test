@@ -1,0 +1,15 @@
+package com.google.firebase.crashlytics;
+
+import EQh9X0spi6Q8y3pv7NLDFihzj5BGvrlFC1JMO8RIwclssh0g5fiAcYZYtR8qNLUTk2L5JjaMngdJt2QKxgYqQ15vaLauPxKiTtjsG5urFemKGwhrB7zv2lVKrI.FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK;
+import com.google.firebase.components.ComponentRegistrar;
+import fNBbXJeSM2O6ieyfI1rEx2tJ5bx6XDy9P8rm9KMo193X7h2KrNTxq8NUUJAyzFs7qbjwLzqOfrBbzLO1N6YYtBzJkGNgaoNP0n4EIAuOXxJp2bew5avyC92k3zMilfdBqOgMMk.Gq0K3IDrcB6MKo1uwraHSDISQCav0u7hXSV8wNNkQHpwU5RxffzuQg6yPfs2rK47Evh067PJSv5dmFSQlmy62xtM513UxTY;
+import java.util.List;
+import oCLc1lIGdQy9mm1kIVILcltBYvOpd2pMDgQqBBmoSrzbv4yor7w6.pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1;
+
+public final class FirebaseCrashlyticsKtxRegistrar implements ComponentRegistrar {
+    public static final pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1 Companion = new Object();
+
+    public List<FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK> getComponents() {
+        return Gq0K3IDrcB6MKo1uwraHSDISQCav0u7hXSV8wNNkQHpwU5RxffzuQg6yPfs2rK47Evh067PJSv5dmFSQlmy62xtM513UxTY.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+    }
+}

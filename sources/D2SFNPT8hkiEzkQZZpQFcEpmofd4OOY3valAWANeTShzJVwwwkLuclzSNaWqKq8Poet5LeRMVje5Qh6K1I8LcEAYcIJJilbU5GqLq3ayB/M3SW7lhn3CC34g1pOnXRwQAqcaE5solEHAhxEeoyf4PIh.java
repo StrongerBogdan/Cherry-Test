@@ -1,0 +1,41 @@
+package D2SFNPT8hkiEzkQZZpQFcEpmofd4OOY3valAWANeTShzJVwwwkLuclzSNaWqKq8Poet5LeRMVje5Qh6K1I8LcEAYcIJJilbU5GqLq3ayB;
+
+import android.graphics.ColorFilter;
+import k7E5adRDhz5TrQ52amP8wLo7HDbhrH2l5KpaWndX6GGTgMTxgSQneaXCWa2mPoOSZJ040aUJCrzVnziwwkci4knTDk5UrFr7180K7Lrs6FIFy7B.wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr;
+
+public final class M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh {
+    public final int DrqQ8C7rtVRDTSclHGsDImq;
+    public final ColorFilter P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+    public final long YmFIHVAy6MFnHbke10dLWI57IXCp;
+
+    public M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh(long j, int i, ColorFilter colorFilter) {
+        this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = colorFilter;
+        this.YmFIHVAy6MFnHbke10dLWI57IXCp = j;
+        this.DrqQ8C7rtVRDTSclHGsDImq = i;
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!(obj instanceof M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh)) {
+            return false;
+        }
+        M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh m3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh = (M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh) obj;
+        return Gq0K3IDrcB6MKo1uwraHSDISQCav0u7hXSV8wNNkQHpwU5RxffzuQg6yPfs2rK47Evh067PJSv5dmFSQlmy62xtM513UxTY.DrqQ8C7rtVRDTSclHGsDImq(this.YmFIHVAy6MFnHbke10dLWI57IXCp, m3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh.YmFIHVAy6MFnHbke10dLWI57IXCp) && uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(this.DrqQ8C7rtVRDTSclHGsDImq, m3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh.DrqQ8C7rtVRDTSclHGsDImq);
+    }
+
+    public final int hashCode() {
+        int i = Gq0K3IDrcB6MKo1uwraHSDISQCav0u7hXSV8wNNkQHpwU5RxffzuQg6yPfs2rK47Evh067PJSv5dmFSQlmy62xtM513UxTY.peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6;
+        return Integer.hashCode(this.DrqQ8C7rtVRDTSclHGsDImq) + (Long.hashCode(this.YmFIHVAy6MFnHbke10dLWI57IXCp) * 31);
+    }
+
+    public final String toString() {
+        StringBuilder sb = new StringBuilder("BlendModeColorFilter(color=");
+        wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9(this.YmFIHVAy6MFnHbke10dLWI57IXCp, sb, ", blendMode=");
+        int i = this.DrqQ8C7rtVRDTSclHGsDImq;
+        sb.append(uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 0) ? "Clear" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 1) ? "Src" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 2) ? "Dst" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 3) ? "SrcOver" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 4) ? "DstOver" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 5) ? "SrcIn" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 6) ? "DstIn" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 7) ? "SrcOut" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 8) ? "DstOut" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 9) ? "SrcAtop" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 10) ? "DstAtop" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 11) ? "Xor" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 12) ? "Plus" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 13) ? "Modulate" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 14) ? "Screen" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 15) ? "Overlay" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 16) ? "Darken" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 17) ? "Lighten" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 18) ? "ColorDodge" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 19) ? "ColorBurn" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 20) ? "HardLight" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 21) ? "Softlight" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 22) ? "Difference" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 23) ? "Exclusion" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 24) ? "Multiply" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 25) ? "Hue" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 26) ? "Saturation" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 27) ? "Color" : uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(i, 28) ? "Luminosity" : "Unknown");
+        sb.append(')');
+        return sb.toString();
+    }
+}

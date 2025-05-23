@@ -1,0 +1,4 @@
+package YWDg1c8zph6D1CmQSrcyfCwTH9BTTDN0NuXtLHW;
+
+public abstract class Woxkfd2QILsoDtnr3UH45ujk2A6Cy5L4dZrAA8Gc5VM0y65T1 {
+}

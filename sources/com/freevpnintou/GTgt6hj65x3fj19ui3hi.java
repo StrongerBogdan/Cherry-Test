@@ -1,0 +1,6 @@
+package com.freevpnintou;
+
+import BM3XsGMS2PDGysJY25pz4FY55l64KyEAbKoZ7KGIgHUgOi152o4Mz9QMP9Ld869AXOfaru5qOxJ6X.FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK;
+
+public final class GTgt6hj65x3fj19ui3hi extends FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK {
+}

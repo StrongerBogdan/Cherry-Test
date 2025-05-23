@@ -1,0 +1,5 @@
+package UOrP21bAl4WWQHRnjOdFvcdzBhSQCKS56GDu4RptRcr7UNqifeobgmFtePCjJ8RWx0GFjgSxkXK8nqNz1D366Z83mZue0wy9s6XDuj5;
+
+public interface Woxkfd2QILsoDtnr3UH45ujk2A6Cy5L4dZrAA8Gc5VM0y65T1 {
+    int YmFIHVAy6MFnHbke10dLWI57IXCp(Object obj);
+}

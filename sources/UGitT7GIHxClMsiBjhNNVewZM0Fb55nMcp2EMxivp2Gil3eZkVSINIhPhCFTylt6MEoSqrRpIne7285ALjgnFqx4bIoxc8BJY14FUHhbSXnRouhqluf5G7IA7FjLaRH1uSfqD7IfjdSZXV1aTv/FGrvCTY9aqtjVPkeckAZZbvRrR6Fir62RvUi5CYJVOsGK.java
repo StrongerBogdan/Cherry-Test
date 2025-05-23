@@ -1,0 +1,6 @@
+package UGitT7GIHxClMsiBjhNNVewZM0Fb55nMcp2EMxivp2Gil3eZkVSINIhPhCFTylt6MEoSqrRpIne7285ALjgnFqx4bIoxc8BJY14FUHhbSXnRouhqluf5G7IA7FjLaRH1uSfqD7IfjdSZXV1aTv;
+
+import com.google.protobuf.yYB09n8MJJV5AOyvwYNah2OjE3b4cVYa5dGXdqS1Q6;
+
+public interface FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK extends yYB09n8MJJV5AOyvwYNah2OjE3b4cVYa5dGXdqS1Q6 {
+}

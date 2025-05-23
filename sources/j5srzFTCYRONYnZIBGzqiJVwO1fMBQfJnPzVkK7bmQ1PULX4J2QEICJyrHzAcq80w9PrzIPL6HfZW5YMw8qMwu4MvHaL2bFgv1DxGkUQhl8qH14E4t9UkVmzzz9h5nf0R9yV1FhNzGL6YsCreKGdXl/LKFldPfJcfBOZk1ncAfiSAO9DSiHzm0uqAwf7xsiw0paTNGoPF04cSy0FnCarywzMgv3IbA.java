@@ -1,0 +1,8 @@
+package j5srzFTCYRONYnZIBGzqiJVwO1fMBQfJnPzVkK7bmQ1PULX4J2QEICJyrHzAcq80w9PrzIPL6HfZW5YMw8qMwu4MvHaL2bFgv1DxGkUQhl8qH14E4t9UkVmzzz9h5nf0R9yV1FhNzGL6YsCreKGdXl;
+
+import android.os.Binder;
+import android.os.IInterface;
+
+public abstract class LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA extends Binder implements FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK, IInterface {
+    public static final /* synthetic */ int P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = 0;
+}

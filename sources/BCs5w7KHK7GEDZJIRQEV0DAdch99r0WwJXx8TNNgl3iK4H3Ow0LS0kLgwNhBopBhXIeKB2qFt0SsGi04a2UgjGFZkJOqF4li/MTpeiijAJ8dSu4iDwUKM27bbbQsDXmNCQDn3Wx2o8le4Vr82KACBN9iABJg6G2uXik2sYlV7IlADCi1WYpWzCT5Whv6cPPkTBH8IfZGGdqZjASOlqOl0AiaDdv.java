@@ -1,0 +1,7 @@
+package BCs5w7KHK7GEDZJIRQEV0DAdch99r0WwJXx8TNNgl3iK4H3Ow0LS0kLgwNhBopBhXIeKB2qFt0SsGi04a2UgjGFZkJOqF4li;
+
+import java.security.MessageDigest;
+
+public interface MTpeiijAJ8dSu4iDwUKM27bbbQsDXmNCQDn3Wx2o8le4Vr82KACBN9iABJg6G2uXik2sYlV7IlADCi1WYpWzCT5Whv6cPPkTBH8IfZGGdqZjASOlqOl0AiaDdv5fOn2SAqqrBVER6OHLJnMyba8cCxuTGUUEWY3s {
+    void uOyBevV98ltUOUilp7DoFm42UWPOTxVsABEgMe8CCuScERPxr2BKOn(byte[] bArr, Object obj, MessageDigest messageDigest);
+}

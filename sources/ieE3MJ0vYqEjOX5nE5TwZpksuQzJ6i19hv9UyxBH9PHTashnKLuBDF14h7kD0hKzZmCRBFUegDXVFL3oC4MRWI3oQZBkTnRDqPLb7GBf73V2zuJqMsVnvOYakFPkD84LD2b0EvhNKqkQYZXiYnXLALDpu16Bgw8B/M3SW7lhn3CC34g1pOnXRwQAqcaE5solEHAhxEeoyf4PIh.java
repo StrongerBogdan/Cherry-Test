@@ -1,0 +1,22 @@
+package ieE3MJ0vYqEjOX5nE5TwZpksuQzJ6i19hv9UyxBH9PHTashnKLuBDF14h7kD0hKzZmCRBFUegDXVFL3oC4MRWI3oQZBkTnRDqPLb7GBf73V2zuJqMsVnvOYakFPkD84LD2b0EvhNKqkQYZXiYnXLALDpu16Bgw8B;
+
+import X4mHZwPSYJuddtRWgBIvhYsgFPad4fH3x4BIBRirgSffWmbOxMucK4zmXSS.wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr;
+import com.freevpnintou.MiniAct;
+import dagger.hilt.internal.UnsafeCasts;
+
+public final class M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh implements wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+    public final /* synthetic */ MiniAct P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+
+    public M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh(MiniAct miniAct) {
+        this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = miniAct;
+    }
+
+    public final void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(hYTq85NYTmpBSDuMVl7IaElgHIlwNLbmBabZyaUoQ6GcmC8LPZyp.M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh m3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh) {
+        MiniAct miniAct = this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+        if (!miniAct.NnsdLjaLQYcmdMHvVX4iFex0TDYeabv7nEPf0lhDU0VuCNdW4FBhrMnLHa0CwHHhNqkBQp2c1bPYMlB6ARBzwcKyJaND9SpS9BhY7RnuwGIekxiLTp86nEZrp6XDU3YAQiETjN7PqJ) {
+            miniAct.NnsdLjaLQYcmdMHvVX4iFex0TDYeabv7nEPf0lhDU0VuCNdW4FBhrMnLHa0CwHHhNqkBQp2c1bPYMlB6ARBzwcKyJaND9SpS9BhY7RnuwGIekxiLTp86nEZrp6XDU3YAQiETjN7PqJ = true;
+            MiniAct miniAct2 = (MiniAct) UnsafeCasts.unsafeCast(miniAct);
+            ((tygdzrfuG3bl1r2ouET5CaGhmt4ugo8) miniAct.generatedComponent()).getClass();
+        }
+    }
+}

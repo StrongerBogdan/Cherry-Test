@@ -1,0 +1,38 @@
+package androidx.lifecycle;
+
+import BE8JVrulQ7ijGztmAfDOtVT5YsrSogoWMTVkIaE0OkQ8wAF1jp6ASCcLAIcyXFwkObQduU4gkPUUXsxo99jIVxO0ZQMDqodZWUexvtAepDoWsMH3AfX91fDYPrZVDGYzU7jFKF3n1KKXCyuE.nRMC9Erc6zQnYYVz2bwsPrzEcEHGBynoeOtZAeuJf8ASDz5eovfPgPCoC;
+import WZzKBFiavuBbEH9SEUHXa4D4PUPTrJheXkN1sV5I7LfyT.qCxWN2OV3De886WQoEJYLSnRJE1LFENCu64bJaehf9R1n6ytq0vnnSAUIU8rpX2tjFLYxB3VkEZaVUd3R5RAYtBleURTu5rUz5baMvzkJCw6JX4Sqfr5DZvWUPtqb2v04QpVc4FJVjnNDbPMVKs;
+import android.os.Handler;
+import wQHIhZJqxGpxVvC40dPLgAjr2Ens6.LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5;
+
+public final class uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH implements Hfv852lbufjqS9YvuotOQGMlAwbT93xAB7vm4I08c6qrPUQoF33xZ7tgcFr07lRFO0AjYBoYHfH7ytkOI {
+    public static final uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH NAT8VFbvMD5oA1tDoaa8FFDMc2Rw14yQQAQYIZnXV5Cm7DH1wQODb9V441Ny0MOyjP5swHySdefYhY7cmsro3bTGtZnPkg0ygx = new uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH();
+    public boolean GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT = true;
+    public final nRMC9Erc6zQnYYVz2bwsPrzEcEHGBynoeOtZAeuJf8ASDz5eovfPgPCoC NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN = new nRMC9Erc6zQnYYVz2bwsPrzEcEHGBynoeOtZAeuJf8ASDz5eovfPgPCoC(5, this);
+    public int Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw;
+    public Handler ldGdYLUh6hMmv4Hx5TzlrrWxo0uqaUSVZfITVO5uH8OME4MWnKFycS8Eu4oWAhjwOIOnBDRLQYn5vN4frfi8x7xEl0yzxR96;
+    public final Woxkfd2QILsoDtnr3UH45ujk2A6Cy5L4dZrAA8Gc5VM0y65T1 qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG = new Woxkfd2QILsoDtnr3UH45ujk2A6Cy5L4dZrAA8Gc5VM0y65T1(this);
+    public boolean uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8 = true;
+    public int xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+    public final qCxWN2OV3De886WQoEJYLSnRJE1LFENCu64bJaehf9R1n6ytq0vnnSAUIU8rpX2tjFLYxB3VkEZaVUd3R5RAYtBleURTu5rUz5baMvzkJCw6JX4Sqfr5DZvWUPtqb2v04QpVc4FJVjnNDbPMVKs yY0Yc5sPaZSYCL0bdTcevx7ABnXkQlKd3EpshlFldxtWb01ZPTjz2XoFnsZBK8oCDGLLaHFtrvKumkvfV0W = new qCxWN2OV3De886WQoEJYLSnRJE1LFENCu64bJaehf9R1n6ytq0vnnSAUIU8rpX2tjFLYxB3VkEZaVUd3R5RAYtBleURTu5rUz5baMvzkJCw6JX4Sqfr5DZvWUPtqb2v04QpVc4FJVjnNDbPMVKs(10, (Object) this);
+
+    public final Woxkfd2QILsoDtnr3UH45ujk2A6Cy5L4dZrAA8Gc5VM0y65T1 H0pSch9XQw75sQDNHGRLAUbXt3bOxqOZ() {
+        return this.qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG;
+    }
+
+    public final void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d() {
+        int i = this.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw + 1;
+        this.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw = i;
+        if (i != 1) {
+            return;
+        }
+        if (this.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT) {
+            this.qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG.VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU(nRMC9Erc6zQnYYVz2bwsPrzEcEHGBynoeOtZAeuJf8ASDz5eovfPgPCoC.ON_RESUME);
+            this.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT = false;
+            return;
+        }
+        Handler handler = this.ldGdYLUh6hMmv4Hx5TzlrrWxo0uqaUSVZfITVO5uH8OME4MWnKFycS8Eu4oWAhjwOIOnBDRLQYn5vN4frfi8x7xEl0yzxR96;
+        LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5.DrqQ8C7rtVRDTSclHGsDImq(handler);
+        handler.removeCallbacks(this.NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN);
+    }
+}

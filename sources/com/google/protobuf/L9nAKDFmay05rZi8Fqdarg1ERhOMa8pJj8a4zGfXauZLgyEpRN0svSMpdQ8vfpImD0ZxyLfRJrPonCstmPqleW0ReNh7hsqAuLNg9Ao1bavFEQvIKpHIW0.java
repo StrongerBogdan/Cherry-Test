@@ -1,0 +1,4 @@
+package com.google.protobuf;
+
+public interface L9nAKDFmay05rZi8Fqdarg1ERhOMa8pJj8a4zGfXauZLgyEpRN0svSMpdQ8vfpImD0ZxyLfRJrPonCstmPqleW0ReNh7hsqAuLNg9Ao1bavFEQvIKpHIW0 extends oI0ni7m0OP8ewxEFxveR9GgB1iLd2Wk3wndWyFNspxQbiEBPM7cZzdSrYDdEDQOg8DXXmP7a0BdAyceinNJZep1SSf1Xvcj68gN {
+}

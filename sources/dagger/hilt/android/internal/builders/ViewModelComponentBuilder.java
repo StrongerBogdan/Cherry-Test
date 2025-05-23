@@ -1,0 +1,13 @@
+package dagger.hilt.android.internal.builders;
+
+import androidx.lifecycle.cEa3c8vSLSVxwUJcLf4f9n3Gm28VoElpOXpuEFrEU9s1mKvk7PRPvMsE3QGsDlHAMYk9j0YTqs8eAYU732M3SapHWpxkiM6pSFFn95qy86rVVLfUBQZEGGQc44RdDXl9GYcMpMebwPmZReMcrcWIIcb2;
+import dagger.hilt.android.ViewModelLifecycle;
+import dagger.hilt.android.components.ViewModelComponent;
+
+public interface ViewModelComponentBuilder {
+    ViewModelComponent build();
+
+    ViewModelComponentBuilder savedStateHandle(cEa3c8vSLSVxwUJcLf4f9n3Gm28VoElpOXpuEFrEU9s1mKvk7PRPvMsE3QGsDlHAMYk9j0YTqs8eAYU732M3SapHWpxkiM6pSFFn95qy86rVVLfUBQZEGGQc44RdDXl9GYcMpMebwPmZReMcrcWIIcb2 cea3c8vslsvxwujclf4f9n3gm28voelpoxpuefreu9s1mkvk7prpvmse3qgsdlhamyk9j0ytqs8eayu732m3saphwpxkim6psffn95qy86rvvlfubqzeggqc44rddxl9gycmpmebwpmzremcrcwiicb2);
+
+    ViewModelComponentBuilder viewModelLifecycle(ViewModelLifecycle viewModelLifecycle);
+}

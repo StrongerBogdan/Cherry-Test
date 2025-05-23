@@ -1,0 +1,14 @@
+package LFVp7WOougbzPNaTN31zTDrMEILIJ6AUN47XCLCHAjOum2CMtvlYX9xaY7MfPjeF2me74zbKj1G4g2V1laGqAqQl2PUEfmFK1Uvf0GgoPCiwK;
+
+import BE8JVrulQ7ijGztmAfDOtVT5YsrSogoWMTVkIaE0OkQ8wAF1jp6ASCcLAIcyXFwkObQduU4gkPUUXsxo99jIVxO0ZQMDqodZWUexvtAepDoWsMH3AfX91fDYPrZVDGYzU7jFKF3n1KKXCyuE.Jkck4tyMRqw4KS7fdzysA1QM1p6LiMd0MqjnrUvt0vyGgPbAGpSxpXXz0re4C8rlzUQVDH89lnfN57ty9FRqj3P;
+import java.security.SecureRandom;
+
+public abstract class nRMC9Erc6zQnYYVz2bwsPrzEcEHGBynoeOtZAeuJf8ASDz5eovfPgPCoC {
+    public static final Jkck4tyMRqw4KS7fdzysA1QM1p6LiMd0MqjnrUvt0vyGgPbAGpSxpXXz0re4C8rlzUQVDH89lnfN57ty9FRqj3P P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = new Jkck4tyMRqw4KS7fdzysA1QM1p6LiMd0MqjnrUvt0vyGgPbAGpSxpXXz0re4C8rlzUQVDH89lnfN57ty9FRqj3P(6);
+
+    public static byte[] P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(int i) {
+        byte[] bArr = new byte[i];
+        ((SecureRandom) P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d.get()).nextBytes(bArr);
+        return bArr;
+    }
+}

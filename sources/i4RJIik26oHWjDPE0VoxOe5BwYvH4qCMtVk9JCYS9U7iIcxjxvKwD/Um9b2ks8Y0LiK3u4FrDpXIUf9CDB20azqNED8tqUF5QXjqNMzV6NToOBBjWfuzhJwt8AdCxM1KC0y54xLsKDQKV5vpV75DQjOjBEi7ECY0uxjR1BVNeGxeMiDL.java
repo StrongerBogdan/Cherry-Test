@@ -1,0 +1,6 @@
+package i4RJIik26oHWjDPE0VoxOe5BwYvH4qCMtVk9JCYS9U7iIcxjxvKwD;
+
+import org.json.JSONObject;
+
+public final class Um9b2ks8Y0LiK3u4FrDpXIUf9CDB20azqNED8tqUF5QXjqNMzV6NToOBBjWfuzhJwt8AdCxM1KC0y54xLsKDQKV5vpV75DQjOjBEi7ECY0uxjR1BVNeGxeMiDLdAwy33RHeQ9vkNdSttO818vnfVccP8CWp extends JSONObject {
+}

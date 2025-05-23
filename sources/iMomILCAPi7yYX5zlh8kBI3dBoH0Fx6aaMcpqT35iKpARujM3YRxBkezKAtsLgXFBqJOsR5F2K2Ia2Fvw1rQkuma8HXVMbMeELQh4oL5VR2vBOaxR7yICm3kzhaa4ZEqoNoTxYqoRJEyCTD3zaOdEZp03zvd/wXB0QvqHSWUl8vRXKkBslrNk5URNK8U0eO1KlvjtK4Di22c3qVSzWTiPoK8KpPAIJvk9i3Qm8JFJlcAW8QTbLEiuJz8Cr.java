@@ -1,0 +1,45 @@
+package iMomILCAPi7yYX5zlh8kBI3dBoH0Fx6aaMcpqT35iKpARujM3YRxBkezKAtsLgXFBqJOsR5F2K2Ia2Fvw1rQkuma8HXVMbMeELQh4oL5VR2vBOaxR7yICm3kzhaa4ZEqoNoTxYqoRJEyCTD3zaOdEZp03zvd;
+
+import BCs5w7KHK7GEDZJIRQEV0DAdch99r0WwJXx8TNNgl3iK4H3Ow0LS0kLgwNhBopBhXIeKB2qFt0SsGi04a2UgjGFZkJOqF4li.LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5;
+import BCs5w7KHK7GEDZJIRQEV0DAdch99r0WwJXx8TNNgl3iK4H3Ow0LS0kLgwNhBopBhXIeKB2qFt0SsGi04a2UgjGFZkJOqF4li.NrRzqnkwNu0nnqBOm1PWjgXM1XJmOU4AUNIao5PXqr65iPoidXJXhn2k0kJ93;
+import FR5EjxHMlnhgT4g3Cx4ZlPTPTuR7VSyr9dS4OVpMDfBHg2BGe3HbA1bXzNKGQKMp0i40dVoHiWcnjoEpq4vvipBd2.FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK;
+import YND8fbxO841jVdk4t50dtm97ryqLETsIPaO0NAxGOhhyZe0gpyB73U5zxAiO6GpG8uQ3tVfIN3G8ldO1IXyRqFyOtXKvIJbUEJA1GSJ5YCUlXj.zfocMDrnJnbYtdsnKHCh6s;
+import android.graphics.ImageDecoder;
+import android.os.Build;
+import com.bumptech.glide.load.ImageHeaderParser$ImageType;
+import g1YDenJJqRRvSBpIuBmPP8sI0pssNrb3G0orm3FdFzazGKyhliYUikW5Nfc862YT4SPcvQcOlSaPUWzRqCP3HoI5U8PVaJQBgZzAPRFsSkkVujzpUHBU4b.M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh;
+import java.io.InputStream;
+import java.nio.ByteBuffer;
+import java.util.ArrayList;
+import oVfWXE2NS5EhDCLktkQ0EfxlrwRenoIupNAmRHWA7MMA8cdk9kW78HEWXfcJ9zGz4Wd0Flb89XsZpssWvmI6tc0X4M37GN4SA1gAa2wIArL6Reu0TjWtnGVXZb2xi.XIoAX8Ngr0eP0FzlPvsQCr8abQeqBh68H5a4qv9M;
+
+public final class wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr implements NrRzqnkwNu0nnqBOm1PWjgXM1XJmOU4AUNIao5PXqr65iPoidXJXhn2k0kJ93 {
+    public final /* synthetic */ int P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+    public final zfocMDrnJnbYtdsnKHCh6s YmFIHVAy6MFnHbke10dLWI57IXCp;
+
+    public /* synthetic */ wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr(zfocMDrnJnbYtdsnKHCh6s zfocmdrnjnbytdsnkhch6s, int i) {
+        this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = i;
+        this.YmFIHVAy6MFnHbke10dLWI57IXCp = zfocmdrnjnbytdsnkhch6s;
+    }
+
+    public final XIoAX8Ngr0eP0FzlPvsQCr8abQeqBh68H5a4qv9M P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(Object obj, int i, int i2, LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5 leskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5) {
+        switch (this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d) {
+            case 0:
+                return zfocMDrnJnbYtdsnKHCh6s.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(ImageDecoder.createSource((ByteBuffer) obj), i, i2, leskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5);
+            default:
+                return zfocMDrnJnbYtdsnKHCh6s.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT(ImageDecoder.createSource(FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK.YmFIHVAy6MFnHbke10dLWI57IXCp((InputStream) obj)), i, i2, leskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5);
+        }
+    }
+
+    public final boolean YmFIHVAy6MFnHbke10dLWI57IXCp(Object obj, LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5 leskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5) {
+        switch (this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d) {
+            case 0:
+                ImageHeaderParser$ImageType NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN = JLvzIuqEX93tapBtpmMf2B3O0AWulp9nfDxsp3GouMjtODBL5o0cRn5LzOfYBvs53WsHUfa3ifRI1YSy78FMWBNo4uIUawX2H3YzGWtACXYbjj.wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr.NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN((ArrayList) this.YmFIHVAy6MFnHbke10dLWI57IXCp.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw, (ByteBuffer) obj);
+                return NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN == ImageHeaderParser$ImageType.ANIMATED_WEBP || (Build.VERSION.SDK_INT >= 31 && NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN == ImageHeaderParser$ImageType.ANIMATED_AVIF);
+            default:
+                zfocMDrnJnbYtdsnKHCh6s zfocmdrnjnbytdsnkhch6s = this.YmFIHVAy6MFnHbke10dLWI57IXCp;
+                ImageHeaderParser$ImageType qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG = JLvzIuqEX93tapBtpmMf2B3O0AWulp9nfDxsp3GouMjtODBL5o0cRn5LzOfYBvs53WsHUfa3ifRI1YSy78FMWBNo4uIUawX2H3YzGWtACXYbjj.wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr.qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG((ArrayList) zfocmdrnjnbytdsnkhch6s.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw, (InputStream) obj, (M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh) zfocmdrnjnbytdsnkhch6s.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT);
+                return qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG == ImageHeaderParser$ImageType.ANIMATED_WEBP || (Build.VERSION.SDK_INT >= 31 && qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG == ImageHeaderParser$ImageType.ANIMATED_AVIF);
+        }
+    }
+}

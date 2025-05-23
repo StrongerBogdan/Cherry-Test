@@ -1,0 +1,12 @@
+package BE8JVrulQ7ijGztmAfDOtVT5YsrSogoWMTVkIaE0OkQ8wAF1jp6ASCcLAIcyXFwkObQduU4gkPUUXsxo99jIVxO0ZQMDqodZWUexvtAepDoWsMH3AfX91fDYPrZVDGYzU7jFKF3n1KKXCyuE;
+
+import android.view.View;
+
+public final class YPUNbCiEs4mP05wc0XbPT720S8j9KGKIJ46ve3KsVW1Hp7aE4fKoMyRypV96CthwD5Xm44fZrQNseDB32OunGG1NWSwlsXjIcx6CkZL7zX5QuuVT2D7TfRfWrlE8WR21hHwvf9YPzfeYu5agfHLSl3 {
+    public static final YPUNbCiEs4mP05wc0XbPT720S8j9KGKIJ46ve3KsVW1Hp7aE4fKoMyRypV96CthwD5Xm44fZrQNseDB32OunGG1NWSwlsXjIcx6CkZL7zX5QuuVT2D7TfRfWrlE8WR21hHwvf9YPzfeYu5agfHLSl3 P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = new Object();
+
+    public final void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(View view, int i, boolean z) {
+        view.setFocusable(i);
+        view.setDefaultFocusHighlightEnabled(z);
+    }
+}

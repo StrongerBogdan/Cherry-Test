@@ -1,0 +1,6 @@
+package GoFCUuwqErnrb2r45x023vhUEx6UQwBGoM7kMFnhVyM4x8wCiSRUqeYkpFFUIkUoPalGUXpkxgUIHiPEWdHgHVNXvcoonIk1uanQx;
+
+import java.io.Closeable;
+
+public interface pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1 extends Closeable {
+}

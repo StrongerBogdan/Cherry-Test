@@ -1,0 +1,4 @@
+package MJFvJICtiJAgUErYKle6Aqnw0NqH4i7wM3MBScLiI8z0FV9ANy;
+
+public final class wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr extends Error {
+}

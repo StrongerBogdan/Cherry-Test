@@ -1,0 +1,4 @@
+package com.google.crypto.tink.shaded.protobuf;
+
+public interface YPUNbCiEs4mP05wc0XbPT720S8j9KGKIJ46ve3KsVW1Hp7aE4fKoMyRypV96CthwD5Xm44fZrQNseDB32OunGG1NWSwlsXjIcx6CkZL7zX5QuuVT2D7TfRfWrlE8WR21hHwvf9YPzfeYu5agfHLSl3 {
+}

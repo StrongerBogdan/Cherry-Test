@@ -1,0 +1,11 @@
+package EzemP4G8yQnNcUAlBsuwCZUjdpOoCE1E9w3lupB2EYS6hFRjHkiNe5bw55odLhL3Yb9Vf4oFl38jlkD88ZVOwLqOM3sF5BImkaux4t8LYd2lp3nsA09VFML0zQTv8vr0lcNQbdONLoB9LzfKBbX2zP3Waq;
+
+public interface v2wjQGIYKtptlL26qn5XwdDuvmexCAORUDZpREtraR1ueU7YbldDnIVZO7oKqnBCQTAQ1lAt8 extends L9nAKDFmay05rZi8Fqdarg1ERhOMa8pJj8a4zGfXauZLgyEpRN0svSMpdQ8vfpImD0ZxyLfRJrPonCstmPqleW0ReNh7hsqAuLNg9Ao1bavFEQvIKpHIW0, RUqGnvuYLSUOJ2gYuCzXYpNsWhKbv7TdM0l6AqubteCIcG491PfRVz769xN20qUhCf4mNv72elbXEjeSfWdPWdbhbHpnrYuB7KrRl1itfbTaC8Aj {
+    Object getValue() {
+        return Integer.valueOf(((tesoyBtHZ8RPf9nBL7HNn64VUK5a3dngXz07MIVPOrEHfmLAcFoaP61EAQSHGlHSlM) this).peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6());
+    }
+
+    void setValue(Object obj) {
+        ((tesoyBtHZ8RPf9nBL7HNn64VUK5a3dngXz07MIVPOrEHfmLAcFoaP61EAQSHGlHSlM) this).Gd4rmBgAATC43rwJVoN1Csd804R32ExEuPACPSEsBTpbQQrsHrDvrrUr3JyAOOlwAD4bO3yhldfKO0QyluiLoLo3520QI2Hfmp68SNEn665ETCz9ieP2d3WoeHtlQXicp2X(((Number) obj).intValue());
+    }
+}

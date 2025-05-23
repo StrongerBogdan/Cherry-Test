@@ -1,0 +1,5 @@
+package Fmhohhmyr0GWm6egCJ3nnunxTaGGthkJjVhTCPyzozikSboxkMsk2u0PxyWICsSzhekWOO58evDwJZSscH7RDtyNKTmsg1fhLVudPVEa3gjfiVF;
+
+public interface wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+    long VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU();
+}

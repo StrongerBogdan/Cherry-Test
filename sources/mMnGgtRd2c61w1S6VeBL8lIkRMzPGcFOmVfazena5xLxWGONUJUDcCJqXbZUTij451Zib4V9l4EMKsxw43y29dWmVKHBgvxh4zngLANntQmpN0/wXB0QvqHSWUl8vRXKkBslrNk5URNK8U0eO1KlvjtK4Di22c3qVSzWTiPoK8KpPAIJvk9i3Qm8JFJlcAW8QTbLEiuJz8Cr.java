@@ -1,0 +1,4 @@
+package mMnGgtRd2c61w1S6VeBL8lIkRMzPGcFOmVfazena5xLxWGONUJUDcCJqXbZUTij451Zib4V9l4EMKsxw43y29dWmVKHBgvxh4zngLANntQmpN0;
+
+public interface wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+}

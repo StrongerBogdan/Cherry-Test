@@ -1,0 +1,40 @@
+package androidx.compose.ui.input.rotary;
+
+import BE8JVrulQ7ijGztmAfDOtVT5YsrSogoWMTVkIaE0OkQ8wAF1jp6ASCcLAIcyXFwkObQduU4gkPUUXsxo99jIVxO0ZQMDqodZWUexvtAepDoWsMH3AfX91fDYPrZVDGYzU7jFKF3n1KKXCyuE.HYy5buoEq9cltioL1Vju6g9fMXNHB2tQviUIdVgejnJXgtomQ4T0yTntgQwY1LlZPMN009diJgWUqwqWYFfpoGhWkMAB1vA;
+import GJEvHUnTGczFcKFkHRHWyBiIUdK5SHxos0OVGP4dNRxJWeBIZ3RIfK9DnoF9dbeTTODIbJF2DWT7G0wenxS8RTs3daz.nRMC9Erc6zQnYYVz2bwsPrzEcEHGBynoeOtZAeuJf8ASDz5eovfPgPCoC;
+import IFqI9XY7yNVfsU73A0iapCQx32l5bcf8XDcDzmcXJQbAS.wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr;
+import NDHQi0B0rUWfhaLEwjzLfmoTlPwoHuA3VPOEI8JxMkEMtNra6DwEqUU0bEAuYc4NNLnI9YYLFfbQv8X7yUl3qJsRdhPDXQk3vcw3HyyWll8zfiKpl4QK7Xwicv6lTziqFAuaW8G2S9pWBVFjwIQaOL0Occe6O.fjnDmDRWDWTE0t3jkJPcYK;
+import wQHIhZJqxGpxVvC40dPLgAjr2Ens6.LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5;
+
+final class RotaryInputElement extends fjnDmDRWDWTE0t3jkJPcYK {
+    /* JADX WARNING: type inference failed for: r0v0, types: [IFqI9XY7yNVfsU73A0iapCQx32l5bcf8XDcDzmcXJQbAS.wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr, GJEvHUnTGczFcKFkHRHWyBiIUdK5SHxos0OVGP4dNRxJWeBIZ3RIfK9DnoF9dbeTTODIbJF2DWT7G0wenxS8RTs3daz.nRMC9Erc6zQnYYVz2bwsPrzEcEHGBynoeOtZAeuJf8ASDz5eovfPgPCoC] */
+    public final nRMC9Erc6zQnYYVz2bwsPrzEcEHGBynoeOtZAeuJf8ASDz5eovfPgPCoC BrinjKkMNX0Ww9FldCotLl2() {
+        ? nrmc9erc6zqnyyvz2bwsprzecehgbynoeotzaeujf8asdz5eovfpgpcoc = new nRMC9Erc6zQnYYVz2bwsPrzEcEHGBynoeOtZAeuJf8ASDz5eovfPgPCoC();
+        nrmc9erc6zqnyyvz2bwsprzecehgbynoeotzaeujf8asdz5eovfpgpcoc.HcGgqmTrfEBzZy0CmDiIV3ZElJEuPtc3JIfGYgq465Eh = HYy5buoEq9cltioL1Vju6g9fMXNHB2tQviUIdVgejnJXgtomQ4T0yTntgQwY1LlZPMN009diJgWUqwqWYFfpoGhWkMAB1vA.uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8;
+        return nrmc9erc6zqnyyvz2bwsprzecehgbynoeotzaeujf8asdz5eovfpgpcoc;
+    }
+
+    public final void N5pXJ15tlNKatG0sBkhrXfiY7co2blYTvm3kVKApSyrf0tWXKlKPrkuHPRi2aPYj45VAoMTWa6sKGS2ZcLrtOpdnNxkt95tZnbpxQYN1985ys62TvSqA(nRMC9Erc6zQnYYVz2bwsPrzEcEHGBynoeOtZAeuJf8ASDz5eovfPgPCoC nrmc9erc6zqnyyvz2bwsprzecehgbynoeotzaeujf8asdz5eovfpgpcoc) {
+        ((wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr) nrmc9erc6zqnyyvz2bwsprzecehgbynoeotzaeujf8asdz5eovfpgpcoc).HcGgqmTrfEBzZy0CmDiIV3ZElJEuPtc3JIfGYgq465Eh = HYy5buoEq9cltioL1Vju6g9fMXNHB2tQviUIdVgejnJXgtomQ4T0yTntgQwY1LlZPMN009diJgWUqwqWYFfpoGhWkMAB1vA.uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8;
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!(obj instanceof RotaryInputElement)) {
+            return false;
+        }
+        ((RotaryInputElement) obj).getClass();
+        HYy5buoEq9cltioL1Vju6g9fMXNHB2tQviUIdVgejnJXgtomQ4T0yTntgQwY1LlZPMN009diJgWUqwqWYFfpoGhWkMAB1vA hYy5buoEq9cltioL1Vju6g9fMXNHB2tQviUIdVgejnJXgtomQ4T0yTntgQwY1LlZPMN009diJgWUqwqWYFfpoGhWkMAB1vA = HYy5buoEq9cltioL1Vju6g9fMXNHB2tQviUIdVgejnJXgtomQ4T0yTntgQwY1LlZPMN009diJgWUqwqWYFfpoGhWkMAB1vA.uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8;
+        return hYy5buoEq9cltioL1Vju6g9fMXNHB2tQviUIdVgejnJXgtomQ4T0yTntgQwY1LlZPMN009diJgWUqwqWYFfpoGhWkMAB1vA.equals(hYy5buoEq9cltioL1Vju6g9fMXNHB2tQviUIdVgejnJXgtomQ4T0yTntgQwY1LlZPMN009diJgWUqwqWYFfpoGhWkMAB1vA) && LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d((Object) null, (Object) null);
+    }
+
+    public final int hashCode() {
+        return HYy5buoEq9cltioL1Vju6g9fMXNHB2tQviUIdVgejnJXgtomQ4T0yTntgQwY1LlZPMN009diJgWUqwqWYFfpoGhWkMAB1vA.uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8.hashCode() * 31;
+    }
+
+    public final String toString() {
+        return "RotaryInputElement(onRotaryScrollEvent=" + HYy5buoEq9cltioL1Vju6g9fMXNHB2tQviUIdVgejnJXgtomQ4T0yTntgQwY1LlZPMN009diJgWUqwqWYFfpoGhWkMAB1vA.uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8 + ", onPreRotaryScrollEvent=null)";
+    }
+}

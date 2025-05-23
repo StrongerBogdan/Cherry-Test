@@ -1,0 +1,4 @@
+package AQHYmpzMHgn7AwaOsyG7mfpdGQ9003GfIDIsYo1QqNODU4q8e3BWricQlpUmLyuVaWOY4CrQrkw5oz9qx9Dp5rEzo;
+
+public interface bB0JGyaj0AO2i7E0aMlb1Y1AZ4X4bcNstSNc5YGcAxOCf {
+}

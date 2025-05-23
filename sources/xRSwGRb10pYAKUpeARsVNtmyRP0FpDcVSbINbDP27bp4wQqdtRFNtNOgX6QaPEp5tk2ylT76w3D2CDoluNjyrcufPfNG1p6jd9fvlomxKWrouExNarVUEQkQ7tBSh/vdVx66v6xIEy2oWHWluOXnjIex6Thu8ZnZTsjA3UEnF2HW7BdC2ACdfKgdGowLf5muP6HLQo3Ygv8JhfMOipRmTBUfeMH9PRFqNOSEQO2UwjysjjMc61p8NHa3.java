@@ -1,0 +1,15 @@
+package xRSwGRb10pYAKUpeARsVNtmyRP0FpDcVSbINbDP27bp4wQqdtRFNtNOgX6QaPEp5tk2ylT76w3D2CDoluNjyrcufPfNG1p6jd9fvlomxKWrouExNarVUEQkQ7tBSh;
+
+public interface vdVx66v6xIEy2oWHWluOXnjIex6Thu8ZnZTsjA3UEnF2HW7BdC2ACdfKgdGowLf5muP6HLQo3Ygv8JhfMOipRmTBUfeMH9PRFqNOSEQO2UwjysjjMc61p8NHa38Ffz1FdbkuyiVJUk2h6ipUQK0AU {
+    void DrqQ8C7rtVRDTSclHGsDImq(long j);
+
+    void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d();
+
+    void VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU(long j);
+
+    void YmFIHVAy6MFnHbke10dLWI57IXCp();
+
+    void onCancel();
+
+    void oyvK1kTrRf3tlj9fHjZjN6freUc3VsJnyo10eIgiHGpIjYVqzmOqLAZyI78j0nhqnpvpZBYcayT3cwe9aGiIeTqRiS9dC9fYyEc1BLd6JBDW4vtIRArnnO7yLJU();
+}

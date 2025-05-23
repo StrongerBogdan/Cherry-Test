@@ -1,0 +1,5 @@
+package WZzKBFiavuBbEH9SEUHXa4D4PUPTrJheXkN1sV5I7LfyT;
+
+public interface XIoAX8Ngr0eP0FzlPvsQCr8abQeqBh68H5a4qv9M {
+    float P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(float f);
+}

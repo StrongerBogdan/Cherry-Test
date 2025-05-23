@@ -1,0 +1,13 @@
+package e85HM6RK69JRNoJaF8YK8I4A9u7jmZ48FCxnpCDtrRI88gQF5QWXCXbZR8zfG36YLVhKkXbBzVnf9j2O9fIWYNuMT;
+
+import android.os.SystemClock;
+
+public final class Zxd7WvsuFUJOERZRXzUHHPbcloCSOtl09sfPoYsR {
+    public final String P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+    public final long YmFIHVAy6MFnHbke10dLWI57IXCp = SystemClock.elapsedRealtime();
+
+    public Zxd7WvsuFUJOERZRXzUHHPbcloCSOtl09sfPoYsR(s4goetAtZsbW9xVSnh2BSixbe s4goetatzsbw9xvsnh2bsixbe, String str) {
+        this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = str;
+        s4goetatzsbw9xvsnh2bsixbe.Gd4rmBgAATC43rwJVoN1Csd804R32ExEuPACPSEsBTpbQQrsHrDvrrUr3JyAOOlwAD4bO3yhldfKO0QyluiLoLo3520QI2Hfmp68SNEn665ETCz9ieP2d3WoeHtlQXicp2X().getClass();
+    }
+}

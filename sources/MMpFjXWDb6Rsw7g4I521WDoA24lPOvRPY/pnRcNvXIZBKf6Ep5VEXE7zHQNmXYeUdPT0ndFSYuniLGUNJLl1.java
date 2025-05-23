@@ -1,0 +1,4 @@
+package MMpFjXWDb6Rsw7g4I521WDoA24lPOvRPY;
+
+public interface pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1 {
+}

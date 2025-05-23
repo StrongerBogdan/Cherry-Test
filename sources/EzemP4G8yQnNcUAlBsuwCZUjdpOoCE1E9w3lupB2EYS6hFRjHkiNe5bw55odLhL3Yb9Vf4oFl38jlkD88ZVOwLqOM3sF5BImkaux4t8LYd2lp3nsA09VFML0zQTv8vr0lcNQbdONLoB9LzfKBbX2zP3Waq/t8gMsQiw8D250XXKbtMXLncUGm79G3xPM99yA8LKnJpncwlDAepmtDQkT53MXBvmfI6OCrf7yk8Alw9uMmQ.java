@@ -1,0 +1,9 @@
+package EzemP4G8yQnNcUAlBsuwCZUjdpOoCE1E9w3lupB2EYS6hFRjHkiNe5bw55odLhL3Yb9Vf4oFl38jlkD88ZVOwLqOM3sF5BImkaux4t8LYd2lp3nsA09VFML0zQTv8vr0lcNQbdONLoB9LzfKBbX2zP3Waq;
+
+public interface t8gMsQiw8D250XXKbtMXLncUGm79G3xPM99yA8LKnJpncwlDAepmtDQkT53MXBvmfI6OCrf7yk8Alw9uMmQ {
+    void BrinjKkMNX0Ww9FldCotLl2();
+
+    void Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw();
+
+    void VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU();
+}

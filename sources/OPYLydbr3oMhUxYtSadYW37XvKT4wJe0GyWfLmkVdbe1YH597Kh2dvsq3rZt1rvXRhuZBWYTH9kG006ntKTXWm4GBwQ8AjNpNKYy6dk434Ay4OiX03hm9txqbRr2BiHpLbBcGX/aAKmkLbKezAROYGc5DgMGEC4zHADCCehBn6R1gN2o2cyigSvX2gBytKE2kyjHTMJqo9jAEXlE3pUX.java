@@ -1,0 +1,5 @@
+package OPYLydbr3oMhUxYtSadYW37XvKT4wJe0GyWfLmkVdbe1YH597Kh2dvsq3rZt1rvXRhuZBWYTH9kG006ntKTXWm4GBwQ8AjNpNKYy6dk434Ay4OiX03hm9txqbRr2BiHpLbBcGX;
+
+public interface aAKmkLbKezAROYGc5DgMGEC4zHADCCehBn6R1gN2o2cyigSvX2gBytKE2kyjHTMJqo9jAEXlE3pUX {
+    void DrqQ8C7rtVRDTSclHGsDImq(Object obj);
+}

@@ -1,0 +1,5 @@
+package EzemP4G8yQnNcUAlBsuwCZUjdpOoCE1E9w3lupB2EYS6hFRjHkiNe5bw55odLhL3Yb9Vf4oFl38jlkD88ZVOwLqOM3sF5BImkaux4t8LYd2lp3nsA09VFML0zQTv8vr0lcNQbdONLoB9LzfKBbX2zP3Waq;
+
+public interface RUqGnvuYLSUOJ2gYuCzXYpNsWhKbv7TdM0l6AqubteCIcG491PfRVz769xN20qUhCf4mNv72elbXEjeSfWdPWdbhbHpnrYuB7KrRl1itfbTaC8Aj {
+    Object getValue();
+}

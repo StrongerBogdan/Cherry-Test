@@ -1,0 +1,11 @@
+package com.google.protobuf;
+
+public interface GpIOCeFImAarHj21xvRSXchCrzDkJmiexe9jqVL9LKRkfkqrO1XEvwJPAq7535qBmQUgFQY3ujXJZdtuGRL6jkZrbREOA3rd2FbbxrppaM2dNgKHLcPYuGYWIRoZ9kTneltQt6Sxao1d8u9sV extends yYB09n8MJJV5AOyvwYNah2OjE3b4cVYa5dGXdqS1Q6 {
+    int getSerializedSize();
+
+    qCxWN2OV3De886WQoEJYLSnRJE1LFENCu64bJaehf9R1n6ytq0vnnSAUIU8rpX2tjFLYxB3VkEZaVUd3R5RAYtBleURTu5rUz5baMvzkJCw6JX4Sqfr5DZvWUPtqb2v04QpVc4FJVjnNDbPMVKs newBuilderForType();
+
+    qCxWN2OV3De886WQoEJYLSnRJE1LFENCu64bJaehf9R1n6ytq0vnnSAUIU8rpX2tjFLYxB3VkEZaVUd3R5RAYtBleURTu5rUz5baMvzkJCw6JX4Sqfr5DZvWUPtqb2v04QpVc4FJVjnNDbPMVKs toBuilder();
+
+    void writeTo(zfocMDrnJnbYtdsnKHCh6s zfocmdrnjnbytdsnkhch6s);
+}

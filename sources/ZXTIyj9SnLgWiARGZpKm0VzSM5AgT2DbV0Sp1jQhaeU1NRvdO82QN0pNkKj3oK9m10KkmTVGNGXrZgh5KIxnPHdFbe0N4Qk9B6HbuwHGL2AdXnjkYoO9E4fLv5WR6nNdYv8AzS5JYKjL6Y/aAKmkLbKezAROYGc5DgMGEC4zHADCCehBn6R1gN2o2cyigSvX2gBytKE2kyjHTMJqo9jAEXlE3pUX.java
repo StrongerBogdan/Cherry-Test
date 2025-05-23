@@ -1,0 +1,11 @@
+package ZXTIyj9SnLgWiARGZpKm0VzSM5AgT2DbV0Sp1jQhaeU1NRvdO82QN0pNkKj3oK9m10KkmTVGNGXrZgh5KIxnPHdFbe0N4Qk9B6HbuwHGL2AdXnjkYoO9E4fLv5WR6nNdYv8AzS5JYKjL6Y;
+
+public interface aAKmkLbKezAROYGc5DgMGEC4zHADCCehBn6R1gN2o2cyigSvX2gBytKE2kyjHTMJqo9jAEXlE3pUX {
+    int H0pSch9XQw75sQDNHGRLAUbXt3bOxqOZ(int i);
+
+    int VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU(int i);
+
+    int oyvK1kTrRf3tlj9fHjZjN6freUc3VsJnyo10eIgiHGpIjYVqzmOqLAZyI78j0nhqnpvpZBYcayT3cwe9aGiIeTqRiS9dC9fYyEc1BLd6JBDW4vtIRArnnO7yLJU(int i);
+
+    int uOyBevV98ltUOUilp7DoFm42UWPOTxVsABEgMe8CCuScERPxr2BKOn(int i);
+}

@@ -1,0 +1,11 @@
+package CA9s590SE95eiqYkHsVd3dpWicWpP6GxTmqatsh35E7mApLfqj4C0Z0uZD1Y2PE0tJJDQjOpo8OI5Zeb5uD0LHAdvSdhD2CE9iTdRKAS8XpEAeu1cSxz9uLRntx8pDFUmRCT9C9JF5Cqs4tEPQ5PLfLE;
+
+import flpKXtkxsYs6HzZU6JlcZT0W6k0hSkhHAMmrAYMHm7uThy4GCN2k3f1dOwGQhtd0ak9RrNhLL5P9QUoMZt0BAigZvbe8xa2XMO8RJUFU2gDYqwCZIiejUs4bvVhZvhi6duKPhA1nTsnXIbWud9enjgHU1.Hfv852lbufjqS9YvuotOQGMlAwbT93xAB7vm4I08c6qrPUQoF33xZ7tgcFr07lRFO0AjYBoYHfH7ytkOI;
+
+public final class Um9b2ks8Y0LiK3u4FrDpXIUf9CDB20azqNED8tqUF5QXjqNMzV6NToOBBjWfuzhJwt8AdCxM1KC0y54xLsKDQKV5vpV75DQjOjBEi7ECY0uxjR1BVNeGxeMiDLdAwy33RHeQ9vkNdSttO818vnfVccP8CWp extends Exception {
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public Um9b2ks8Y0LiK3u4FrDpXIUf9CDB20azqNED8tqUF5QXjqNMzV6NToOBBjWfuzhJwt8AdCxM1KC0y54xLsKDQKV5vpV75DQjOjBEi7ECY0uxjR1BVNeGxeMiDLdAwy33RHeQ9vkNdSttO818vnfVccP8CWp(String str) {
+        super(str);
+        Hfv852lbufjqS9YvuotOQGMlAwbT93xAB7vm4I08c6qrPUQoF33xZ7tgcFr07lRFO0AjYBoYHfH7ytkOI.oyvK1kTrRf3tlj9fHjZjN6freUc3VsJnyo10eIgiHGpIjYVqzmOqLAZyI78j0nhqnpvpZBYcayT3cwe9aGiIeTqRiS9dC9fYyEc1BLd6JBDW4vtIRArnnO7yLJU(str, "Detail message must not be empty");
+    }
+}

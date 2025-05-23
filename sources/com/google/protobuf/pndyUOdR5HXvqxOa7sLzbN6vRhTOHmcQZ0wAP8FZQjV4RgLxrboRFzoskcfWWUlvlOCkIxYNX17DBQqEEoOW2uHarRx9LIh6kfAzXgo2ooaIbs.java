@@ -1,0 +1,19 @@
+package com.google.protobuf;
+
+public final class pndyUOdR5HXvqxOa7sLzbN6vRhTOHmcQZ0wAP8FZQjV4RgLxrboRFzoskcfWWUlvlOCkIxYNX17DBQqEEoOW2uHarRx9LIh6kfAzXgo2ooaIbs implements Comparable {
+    public final boolean GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT;
+    public final GC2W27Pzq1Fx0YEz8iUQf0k Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw;
+    public final boolean uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8;
+    public final int xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+
+    public pndyUOdR5HXvqxOa7sLzbN6vRhTOHmcQZ0wAP8FZQjV4RgLxrboRFzoskcfWWUlvlOCkIxYNX17DBQqEEoOW2uHarRx9LIh6kfAzXgo2ooaIbs(EnNc7SVYfYqptNNzq0TcpAdB8G4Z7pbaMOTXeAzA1CWVek7QlMG0s737oWqFiOR1S9th0V72HWjEc0seM9MCNdloauv5ykgfvxfQlHAhjCcYE7j9TI6LelwxFiK4p8kiae0zH388Hy0I4f1ktyvIpdpC2ec93jBA enNc7SVYfYqptNNzq0TcpAdB8G4Z7pbaMOTXeAzA1CWVek7QlMG0s737oWqFiOR1S9th0V72HWjEc0seM9MCNdloauv5ykgfvxfQlHAhjCcYE7j9TI6LelwxFiK4p8kiae0zH388Hy0I4f1ktyvIpdpC2ec93jBA, int i, GC2W27Pzq1Fx0YEz8iUQf0k gC2W27Pzq1Fx0YEz8iUQf0k, boolean z, boolean z2) {
+        this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9 = i;
+        this.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw = gC2W27Pzq1Fx0YEz8iUQf0k;
+        this.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT = z;
+        this.uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8 = z2;
+    }
+
+    public final int compareTo(Object obj) {
+        return this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9 - ((pndyUOdR5HXvqxOa7sLzbN6vRhTOHmcQZ0wAP8FZQjV4RgLxrboRFzoskcfWWUlvlOCkIxYNX17DBQqEEoOW2uHarRx9LIh6kfAzXgo2ooaIbs) obj).xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+    }
+}

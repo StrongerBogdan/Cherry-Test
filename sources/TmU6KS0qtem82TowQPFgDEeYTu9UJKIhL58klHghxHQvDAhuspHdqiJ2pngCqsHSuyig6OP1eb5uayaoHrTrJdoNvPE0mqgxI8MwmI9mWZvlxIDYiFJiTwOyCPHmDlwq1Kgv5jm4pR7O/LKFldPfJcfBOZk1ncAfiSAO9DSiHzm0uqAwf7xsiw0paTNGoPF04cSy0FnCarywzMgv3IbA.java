@@ -1,0 +1,11 @@
+package TmU6KS0qtem82TowQPFgDEeYTu9UJKIhL58klHghxHQvDAhuspHdqiJ2pngCqsHSuyig6OP1eb5uayaoHrTrJdoNvPE0mqgxI8MwmI9mWZvlxIDYiFJiTwOyCPHmDlwq1Kgv5jm4pR7O;
+
+import android.os.ext.SdkExtensions;
+
+public final class LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA {
+    public static final LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = new Object();
+
+    public final int P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d() {
+        return SdkExtensions.getExtensionVersion(1000000);
+    }
+}

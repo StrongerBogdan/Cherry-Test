@@ -1,0 +1,4 @@
+package aoEhNS1y5XxXux1M57Kj5KIJ3U0nQatcnqTUbXjWhdZRL4ow7Am4sC62;
+
+public final class LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA extends RuntimeException {
+}

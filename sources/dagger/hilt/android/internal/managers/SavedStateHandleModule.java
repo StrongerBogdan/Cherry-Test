@@ -1,0 +1,9 @@
+package dagger.hilt.android.internal.managers;
+
+import androidx.lifecycle.cEa3c8vSLSVxwUJcLf4f9n3Gm28VoElpOXpuEFrEU9s1mKvk7PRPvMsE3QGsDlHAMYk9j0YTqs8eAYU732M3SapHWpxkiM6pSFFn95qy86rVVLfUBQZEGGQc44RdDXl9GYcMpMebwPmZReMcrcWIIcb2;
+
+abstract class SavedStateHandleModule {
+    public static cEa3c8vSLSVxwUJcLf4f9n3Gm28VoElpOXpuEFrEU9s1mKvk7PRPvMsE3QGsDlHAMYk9j0YTqs8eAYU732M3SapHWpxkiM6pSFFn95qy86rVVLfUBQZEGGQc44RdDXl9GYcMpMebwPmZReMcrcWIIcb2 provideSavedStateHandle(SavedStateHandleHolder savedStateHandleHolder) {
+        return savedStateHandleHolder.getSavedStateHandle();
+    }
+}

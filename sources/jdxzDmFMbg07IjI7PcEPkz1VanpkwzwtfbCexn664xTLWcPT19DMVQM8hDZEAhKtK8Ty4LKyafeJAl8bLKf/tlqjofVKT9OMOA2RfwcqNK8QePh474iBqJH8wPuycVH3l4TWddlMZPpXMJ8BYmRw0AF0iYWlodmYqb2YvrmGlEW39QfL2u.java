@@ -1,0 +1,20 @@
+package jdxzDmFMbg07IjI7PcEPkz1VanpkwzwtfbCexn664xTLWcPT19DMVQM8hDZEAhKtK8Ty4LKyafeJAl8bLKf;
+
+import CzCh11bKXsi2JUI0czy6u2bxV7chpbZv4iVdmzIm9MJSNPtMpTjVOqisSiWg1Uo7ZbonYcCmO708ekSHiD2A88x6J51.LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5;
+
+public final class tlqjofVKT9OMOA2RfwcqNK8QePh474iBqJH8wPuycVH3l4TWddlMZPpXMJ8BYmRw0AF0iYWlodmYqb2YvrmGlEW39QfL2u extends Hfv852lbufjqS9YvuotOQGMlAwbT93xAB7vm4I08c6qrPUQoF33xZ7tgcFr07lRFO0AjYBoYHfH7ytkOI {
+    public static final tlqjofVKT9OMOA2RfwcqNK8QePh474iBqJH8wPuycVH3l4TWddlMZPpXMJ8BYmRw0AF0iYWlodmYqb2YvrmGlEW39QfL2u GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT = new Hfv852lbufjqS9YvuotOQGMlAwbT93xAB7vm4I08c6qrPUQoF33xZ7tgcFr07lRFO0AjYBoYHfH7ytkOI();
+
+    public final String toString() {
+        return "Dispatchers.Unconfined";
+    }
+
+    public final void uSPzwon3h3afDxL8OXJTWGiki0rybAPqNtMD48vX967e1Yh3jajI7do4lEPybuhojvLQmCY34McmrJGxL8AW84VsBmCgaOj4uwpQW6xYNisv7GyjZwwdqt6dGoOHOqEC8(LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5 leskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5, Runnable runnable) {
+        t8gMsQiw8D250XXKbtMXLncUGm79G3xPM99yA8LKnJpncwlDAepmtDQkT53MXBvmfI6OCrf7yk8Alw9uMmQ t8gmsqiw8d250xxkbtmxlncugm79g3xpm99ya8lknjpncwldaepmtdqkt53mxbvmfi6ocrf7yk8alw9ummq = (t8gMsQiw8D250XXKbtMXLncUGm79G3xPM99yA8LKnJpncwlDAepmtDQkT53MXBvmfI6OCrf7yk8Alw9uMmQ) leskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5.Gd4rmBgAATC43rwJVoN1Csd804R32ExEuPACPSEsBTpbQQrsHrDvrrUr3JyAOOlwAD4bO3yhldfKO0QyluiLoLo3520QI2Hfmp68SNEn665ETCz9ieP2d3WoeHtlQXicp2X(t8gMsQiw8D250XXKbtMXLncUGm79G3xPM99yA8LKnJpncwlDAepmtDQkT53MXBvmfI6OCrf7yk8Alw9uMmQ.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT);
+        if (t8gmsqiw8d250xxkbtmxlncugm79g3xpm99ya8lknjpncwldaepmtdqkt53mxbvmfi6ocrf7yk8alw9ummq != null) {
+            t8gmsqiw8d250xxkbtmxlncugm79g3xpm99ya8lknjpncwldaepmtdqkt53mxbvmfi6ocrf7yk8alw9ummq.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw = true;
+            return;
+        }
+        throw new UnsupportedOperationException("Dispatchers.Unconfined.dispatch function can only be used by the yield function. If you wrap Unconfined dispatcher in your code, make sure you properly delegate isDispatchNeeded and dispatch calls.");
+    }
+}

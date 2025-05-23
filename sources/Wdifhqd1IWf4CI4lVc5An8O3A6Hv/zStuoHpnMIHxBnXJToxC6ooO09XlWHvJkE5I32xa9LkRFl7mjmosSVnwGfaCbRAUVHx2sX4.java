@@ -1,0 +1,5 @@
+package Wdifhqd1IWf4CI4lVc5An8O3A6Hv;
+
+public interface zStuoHpnMIHxBnXJToxC6ooO09XlWHvJkE5I32xa9LkRFl7mjmosSVnwGfaCbRAUVHx2sX4 {
+    void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(long j, long j2, float f);
+}

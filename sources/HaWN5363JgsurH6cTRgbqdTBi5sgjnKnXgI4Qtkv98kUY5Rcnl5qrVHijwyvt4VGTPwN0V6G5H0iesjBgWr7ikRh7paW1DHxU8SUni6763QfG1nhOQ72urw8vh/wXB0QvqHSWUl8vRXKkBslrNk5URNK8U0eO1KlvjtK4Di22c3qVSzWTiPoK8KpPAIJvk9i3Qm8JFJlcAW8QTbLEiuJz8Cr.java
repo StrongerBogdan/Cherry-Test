@@ -1,0 +1,9 @@
+package HaWN5363JgsurH6cTRgbqdTBi5sgjnKnXgI4Qtkv98kUY5Rcnl5qrVHijwyvt4VGTPwN0V6G5H0iesjBgWr7ikRh7paW1DHxU8SUni6763QfG1nhOQ72urw8vh;
+
+import java.util.concurrent.atomic.AtomicBoolean;
+import java.util.logging.Logger;
+
+public abstract class wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+    public static final Logger P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = Logger.getLogger(wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr.class.getName());
+    public static final AtomicBoolean YmFIHVAy6MFnHbke10dLWI57IXCp = new AtomicBoolean(false);
+}

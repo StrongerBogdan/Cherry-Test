@@ -1,0 +1,9 @@
+package pq9LuXg0nKXpjHRgflvtvTS4v2oxwcUhj5Jtp53mwCNtB9QSL50OgGPDeLHVYxnn7HW3QSZrWTVTemClBKgJAUTJw;
+
+import javax.net.ssl.SSLSocket;
+
+public interface NrRzqnkwNu0nnqBOm1PWjgXM1XJmOU4AUNIao5PXqr65iPoidXJXhn2k0kJ93 {
+    boolean P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(SSLSocket sSLSocket);
+
+    tygdzrfuG3bl1r2ouET5CaGhmt4ugo8 YmFIHVAy6MFnHbke10dLWI57IXCp(SSLSocket sSLSocket);
+}

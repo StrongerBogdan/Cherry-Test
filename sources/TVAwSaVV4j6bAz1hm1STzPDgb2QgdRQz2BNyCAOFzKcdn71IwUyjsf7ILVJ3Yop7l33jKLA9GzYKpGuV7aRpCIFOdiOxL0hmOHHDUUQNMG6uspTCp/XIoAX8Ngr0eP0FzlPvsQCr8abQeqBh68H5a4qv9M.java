@@ -1,0 +1,4 @@
+package TVAwSaVV4j6bAz1hm1STzPDgb2QgdRQz2BNyCAOFzKcdn71IwUyjsf7ILVJ3Yop7l33jKLA9GzYKpGuV7aRpCIFOdiOxL0hmOHHDUUQNMG6uspTCp;
+
+public final class XIoAX8Ngr0eP0FzlPvsQCr8abQeqBh68H5a4qv9M extends IllegalArgumentException {
+}

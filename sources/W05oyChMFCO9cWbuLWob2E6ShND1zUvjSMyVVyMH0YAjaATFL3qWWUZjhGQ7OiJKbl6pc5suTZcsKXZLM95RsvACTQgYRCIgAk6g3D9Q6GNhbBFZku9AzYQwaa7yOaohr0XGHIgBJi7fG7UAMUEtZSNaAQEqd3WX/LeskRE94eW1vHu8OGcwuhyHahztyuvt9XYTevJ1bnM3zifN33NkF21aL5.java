@@ -1,0 +1,10 @@
+package W05oyChMFCO9cWbuLWob2E6ShND1zUvjSMyVVyMH0YAjaATFL3qWWUZjhGQ7OiJKbl6pc5suTZcsKXZLM95RsvACTQgYRCIgAk6g3D9Q6GNhbBFZku9AzYQwaa7yOaohr0XGHIgBJi7fG7UAMUEtZSNaAQEqd3WX;
+
+import UKVIoeT4sUmB74mTgXvgpttUhEgiUN08LCWD3BNHWHwyfv59o52bOWlIJwyXN.FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK;
+import dagger.hilt.android.internal.managers.ActivityRetainedComponentManager_LifecycleModule_ProvideActivityRetainedLifecycleFactory;
+
+public final class LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5 implements FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK {
+    public final Object get() {
+        return ActivityRetainedComponentManager_LifecycleModule_ProvideActivityRetainedLifecycleFactory.provideActivityRetainedLifecycle();
+    }
+}

@@ -1,0 +1,8 @@
+package com.google.crypto.tink.shaded.protobuf;
+
+import java.util.List;
+import java.util.RandomAccess;
+
+public interface ivQeO4ds3AzMpcwdFgIxEkbF7HY5gW00DxiVZ17i8v6rvihjoQqVYGLPAIExy5KvIXHLnlK4MidLXOlZaod51FPBoffarUoAzUEp85WgjVEiTVDF6GNATC4L7XMB2wUR2nPosKIgnHxzr extends List, RandomAccess {
+    ivQeO4ds3AzMpcwdFgIxEkbF7HY5gW00DxiVZ17i8v6rvihjoQqVYGLPAIExy5KvIXHLnlK4MidLXOlZaod51FPBoffarUoAzUEp85WgjVEiTVDF6GNATC4L7XMB2wUR2nPosKIgnHxzr N5pXJ15tlNKatG0sBkhrXfiY7co2blYTvm3kVKApSyrf0tWXKlKPrkuHPRi2aPYj45VAoMTWa6sKGS2ZcLrtOpdnNxkt95tZnbpxQYN1985ys62TvSqA(int i);
+}

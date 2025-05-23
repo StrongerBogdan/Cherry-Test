@@ -1,0 +1,8 @@
+package kEoBhu4WVmUn9re08c6rLWS0tJV13RSJvMx5LCey4qaBYQi506rUKVXo8JgCj8hKq9tXtBDkKSDjELr8sOJx17ksFYlgHZ7ZtU8WMQz;
+
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+
+@Retention(RetentionPolicy.RUNTIME)
+public @interface wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+}

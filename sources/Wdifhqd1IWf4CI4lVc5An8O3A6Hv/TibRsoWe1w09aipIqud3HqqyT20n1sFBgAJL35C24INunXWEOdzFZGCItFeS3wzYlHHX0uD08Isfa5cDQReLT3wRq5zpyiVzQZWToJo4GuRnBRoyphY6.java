@@ -1,0 +1,25 @@
+package Wdifhqd1IWf4CI4lVc5An8O3A6Hv;
+
+import BfOJyZqKageCXvQ662yV4N4haMDzZchZjZJtJRHdUgXuZbihJRgnAUWAneMEWBv5d4IhRxvYQfkKIljMVFDCwca8XfoJWHvdNB4zvZT5jGunB5Ub2oTmbkzk1ZBN32YhXavKS.wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr;
+import wQHIhZJqxGpxVvC40dPLgAjr2Ens6.D8GgZbzcKj5rilKnkj8e7mJ1giKXr7PVzF6Rm3iAMV12GPJFjJsP85ro8B5TqnDd3HSKa30yTfOnQUxiSzoUz76iRkaUnM8auyBFxe5kbLQOgcMjtAdyoJ8gOPES2QZYZSBpUK6Mt0I5HQrX8aYczk;
+
+public final class TibRsoWe1w09aipIqud3HqqyT20n1sFBgAJL35C24INunXWEOdzFZGCItFeS3wzYlHHX0uD08Isfa5cDQReLT3wRq5zpyiVzQZWToJo4GuRnBRoyphY6 extends D8GgZbzcKj5rilKnkj8e7mJ1giKXr7PVzF6Rm3iAMV12GPJFjJsP85ro8B5TqnDd3HSKa30yTfOnQUxiSzoUz76iRkaUnM8auyBFxe5kbLQOgcMjtAdyoJ8gOPES2QZYZSBpUK6Mt0I5HQrX8aYczk implements wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+    public final /* synthetic */ w82utHiXkCH7tL0AIXUL3sTOhkWbEwYmPMOZ9XUqDTRkl8VCPjqeA5toj575PI1FdWH1TdBVL4SiM7wPfY2LJQKEdmkbtMklZSQKpeQZpjg0WalcVvyC7rHQii9xuSdelO Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw;
+    public final /* synthetic */ int xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public /* synthetic */ TibRsoWe1w09aipIqud3HqqyT20n1sFBgAJL35C24INunXWEOdzFZGCItFeS3wzYlHHX0uD08Isfa5cDQReLT3wRq5zpyiVzQZWToJo4GuRnBRoyphY6(w82utHiXkCH7tL0AIXUL3sTOhkWbEwYmPMOZ9XUqDTRkl8VCPjqeA5toj575PI1FdWH1TdBVL4SiM7wPfY2LJQKEdmkbtMklZSQKpeQZpjg0WalcVvyC7rHQii9xuSdelO w82uthixkch7tl0aixul3stohkwbewympmoz9xuqdtrkl8vcpjqea5toj575pi1fdwh1tdbvl4sim7wpfy2ljqkedmkbtmklzsqkpeqzpjg0walcvvyc7rhqii9xusdelo, int i) {
+        super(0);
+        this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9 = i;
+        this.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw = w82uthixkch7tl0aixul3stohkwbewympmoz9xuqdtrkl8vcpjqea5toj575pi1fdwh1tdbvl4sim7wpfy2ljqkedmkbtmklzsqkpeqzpjg0walcvvyc7rhqii9xusdelo;
+    }
+
+    public final Object YmFIHVAy6MFnHbke10dLWI57IXCp() {
+        switch (this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9) {
+            case 0:
+                return Float.valueOf((float) this.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw.HcGgqmTrfEBzZy0CmDiIV3ZElJEuPtc3JIfGYgq465Eh.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d.peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6());
+            default:
+                return Float.valueOf((float) this.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw.HcGgqmTrfEBzZy0CmDiIV3ZElJEuPtc3JIfGYgq465Eh.VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU.peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6());
+        }
+    }
+}

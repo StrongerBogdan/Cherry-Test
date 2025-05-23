@@ -1,0 +1,15 @@
+package BE8JVrulQ7ijGztmAfDOtVT5YsrSogoWMTVkIaE0OkQ8wAF1jp6ASCcLAIcyXFwkObQduU4gkPUUXsxo99jIVxO0ZQMDqodZWUexvtAepDoWsMH3AfX91fDYPrZVDGYzU7jFKF3n1KKXCyuE;
+
+import android.view.View;
+
+public final class TmY5ZkJG3HbfK7ytmsWzcy9ZLJLtsMWqixNYSsdtBmXQG4ulo2hXUmGiI7OILmYAeFdMs2nIfPKVGrLwGzcWoDUQexMBhYgDR2fLa0ebuJDmqTDQTG8J1dDyrV3oMLr6Md6gnzzxyUM9wIa6naTtJ3Gd1S61hA {
+    public static final TmY5ZkJG3HbfK7ytmsWzcy9ZLJLtsMWqixNYSsdtBmXQG4ulo2hXUmGiI7OILmYAeFdMs2nIfPKVGrLwGzcWoDUQexMBhYgDR2fLa0ebuJDmqTDQTG8J1dDyrV3oMLr6Md6gnzzxyUM9wIa6naTtJ3Gd1S61hA P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = new Object();
+
+    public final void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(View view, int i) {
+        view.setOutlineAmbientShadowColor(i);
+    }
+
+    public final void YmFIHVAy6MFnHbke10dLWI57IXCp(View view, int i) {
+        view.setOutlineSpotShadowColor(i);
+    }
+}

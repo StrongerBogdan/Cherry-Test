@@ -1,0 +1,8 @@
+package BE8JVrulQ7ijGztmAfDOtVT5YsrSogoWMTVkIaE0OkQ8wAF1jp6ASCcLAIcyXFwkObQduU4gkPUUXsxo99jIVxO0ZQMDqodZWUexvtAepDoWsMH3AfX91fDYPrZVDGYzU7jFKF3n1KKXCyuE;
+
+import java.util.concurrent.atomic.AtomicBoolean;
+
+public abstract class VQdmCBrxGVtL9Hz5UZF7RDNdde5nAjm8QHzVN8xDX1SCj6b1LL {
+    public static final AtomicBoolean P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = new AtomicBoolean(false);
+    public static final AtomicBoolean YmFIHVAy6MFnHbke10dLWI57IXCp = new AtomicBoolean(false);
+}

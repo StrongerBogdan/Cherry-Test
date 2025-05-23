@@ -1,0 +1,4 @@
+package com.google.protobuf;
+
+public final class PktwfYqfDirnUtRXQN2vMKvIDc32F7Ty5nAWT83nNh8W extends fjnDmDRWDWTE0t3jkJPcYK implements yYB09n8MJJV5AOyvwYNah2OjE3b4cVYa5dGXdqS1Q6 {
+}

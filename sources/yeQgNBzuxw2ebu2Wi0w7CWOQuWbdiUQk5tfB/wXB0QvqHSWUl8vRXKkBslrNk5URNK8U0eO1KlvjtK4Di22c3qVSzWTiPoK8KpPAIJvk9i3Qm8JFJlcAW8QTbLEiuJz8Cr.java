@@ -1,0 +1,4 @@
+package yeQgNBzuxw2ebu2Wi0w7CWOQuWbdiUQk5tfB;
+
+public final class wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr extends Exception {
+}

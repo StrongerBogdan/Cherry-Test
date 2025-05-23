@@ -1,0 +1,5 @@
+package c6zbesmazulAfROBkx8iSeooecuO7mz3I46eQFm1XQl4kXk1nVmPuu3nsYuDIGwREliE5a6l5FGGXduAVLijwbJdFbGBDqHiy6rQ2ZRUP7wcWQ63f8oh2XXF;
+
+public interface pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1 {
+    Object get();
+}

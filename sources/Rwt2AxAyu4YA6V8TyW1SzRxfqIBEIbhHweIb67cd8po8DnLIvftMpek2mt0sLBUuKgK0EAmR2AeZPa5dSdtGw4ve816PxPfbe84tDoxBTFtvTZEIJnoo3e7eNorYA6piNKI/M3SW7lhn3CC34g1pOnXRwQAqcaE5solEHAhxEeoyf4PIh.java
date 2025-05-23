@@ -1,0 +1,9 @@
+package Rwt2AxAyu4YA6V8TyW1SzRxfqIBEIbhHweIb67cd8po8DnLIvftMpek2mt0sLBUuKgK0EAmR2AeZPa5dSdtGw4ve816PxPfbe84tDoxBTFtvTZEIJnoo3e7eNorYA6piNKI;
+
+public final class M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh {
+    public final int P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+
+    public M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh(int i) {
+        this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = i;
+    }
+}

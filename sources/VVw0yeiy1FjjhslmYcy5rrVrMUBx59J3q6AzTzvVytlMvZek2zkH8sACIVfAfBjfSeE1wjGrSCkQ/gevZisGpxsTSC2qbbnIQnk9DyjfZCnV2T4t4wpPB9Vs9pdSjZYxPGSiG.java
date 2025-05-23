@@ -1,0 +1,4 @@
+package VVw0yeiy1FjjhslmYcy5rrVrMUBx59J3q6AzTzvVytlMvZek2zkH8sACIVfAfBjfSeE1wjGrSCkQ;
+
+public enum gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG {
+}

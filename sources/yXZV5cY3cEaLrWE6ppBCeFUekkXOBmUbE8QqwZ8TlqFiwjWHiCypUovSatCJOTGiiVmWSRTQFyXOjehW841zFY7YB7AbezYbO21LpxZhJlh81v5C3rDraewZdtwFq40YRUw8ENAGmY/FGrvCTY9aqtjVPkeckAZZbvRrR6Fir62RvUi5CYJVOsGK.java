@@ -1,0 +1,7 @@
+package yXZV5cY3cEaLrWE6ppBCeFUekkXOBmUbE8QqwZ8TlqFiwjWHiCypUovSatCJOTGiiVmWSRTQFyXOjehW841zFY7YB7AbezYbO21LpxZhJlh81v5C3rDraewZdtwFq40YRUw8ENAGmY;
+
+import java.util.HashMap;
+
+public final class FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK {
+    public final HashMap P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = new HashMap();
+}

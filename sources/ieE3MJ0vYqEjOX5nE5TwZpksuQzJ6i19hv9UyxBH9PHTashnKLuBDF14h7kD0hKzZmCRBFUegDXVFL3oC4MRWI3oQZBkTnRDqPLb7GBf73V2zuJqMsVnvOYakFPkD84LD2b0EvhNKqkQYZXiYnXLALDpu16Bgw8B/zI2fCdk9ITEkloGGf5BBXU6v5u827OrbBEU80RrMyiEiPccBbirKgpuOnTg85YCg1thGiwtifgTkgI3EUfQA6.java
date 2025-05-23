@@ -1,0 +1,19 @@
+package ieE3MJ0vYqEjOX5nE5TwZpksuQzJ6i19hv9UyxBH9PHTashnKLuBDF14h7kD0hKzZmCRBFUegDXVFL3oC4MRWI3oQZBkTnRDqPLb7GBf73V2zuJqMsVnvOYakFPkD84LD2b0EvhNKqkQYZXiYnXLALDpu16Bgw8B;
+
+import android.view.ViewTreeObserver;
+import hYTq85NYTmpBSDuMVl7IaElgHIlwNLbmBabZyaUoQ6GcmC8LPZyp.M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh;
+
+public final /* synthetic */ class zI2fCdk9ITEkloGGf5BBXU6v5u827OrbBEU80RrMyiEiPccBbirKgpuOnTg85YCg1thGiwtifgTkgI3EUfQA6 implements ViewTreeObserver.OnWindowFocusChangeListener {
+    public final /* synthetic */ M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+
+    public /* synthetic */ zI2fCdk9ITEkloGGf5BBXU6v5u827OrbBEU80RrMyiEiPccBbirKgpuOnTg85YCg1thGiwtifgTkgI3EUfQA6(M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh m3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh) {
+        this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = m3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh;
+    }
+
+    public final void onWindowFocusChanged(boolean z) {
+        if (!z) {
+            Integer num = HycJO58aoQSVGU2F34JBtS2EZZrIfZHu4QZkcKSzIiZV8DxfjbNE97av75khvbQkqKmNhRLAyjQoz30eNRpJW9lrQxAjrbdNYDV2QPkZd6DqsLtpHMUskvKfdBirTCrjsgRBywclpihL8M5OPD6.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+            HycJO58aoQSVGU2F34JBtS2EZZrIfZHu4QZkcKSzIiZV8DxfjbNE97av75khvbQkqKmNhRLAyjQoz30eNRpJW9lrQxAjrbdNYDV2QPkZd6DqsLtpHMUskvKfdBirTCrjsgRBywclpihL8M5OPD6.DrqQ8C7rtVRDTSclHGsDImq(this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d);
+        }
+    }
+}

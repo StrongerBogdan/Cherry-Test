@@ -1,0 +1,4 @@
+package B3PwWri6DSCoKraVluZjHaYZBf4Lra3UOWVB2XDM1KMB7OhKt20cO66HHxEdolbRaQev0TMOd0xc0bCAhppBTe703AYmEST1PHX6D9o2QFzGpBJe85D0v1a3US;
+
+public class FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK extends RuntimeException {
+}

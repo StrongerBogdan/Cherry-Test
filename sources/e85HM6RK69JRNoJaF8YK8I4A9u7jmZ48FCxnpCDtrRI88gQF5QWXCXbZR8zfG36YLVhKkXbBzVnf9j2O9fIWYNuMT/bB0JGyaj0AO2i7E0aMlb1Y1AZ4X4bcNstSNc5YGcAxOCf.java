@@ -1,0 +1,5 @@
+package e85HM6RK69JRNoJaF8YK8I4A9u7jmZ48FCxnpCDtrRI88gQF5QWXCXbZR8zfG36YLVhKkXbBzVnf9j2O9fIWYNuMT;
+
+public interface bB0JGyaj0AO2i7E0aMlb1Y1AZ4X4bcNstSNc5YGcAxOCf {
+    String xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9(String str, String str2);
+}

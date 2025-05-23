@@ -1,0 +1,9 @@
+package com.google.crypto.tink.shaded.protobuf;
+
+import java.util.RandomAccess;
+
+public abstract class XIoAX8Ngr0eP0FzlPvsQCr8abQeqBh68H5a4qv9M extends LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA implements RandomAccess, YPUNbCiEs4mP05wc0XbPT720S8j9KGKIJ46ve3KsVW1Hp7aE4fKoMyRypV96CthwD5Xm44fZrQNseDB32OunGG1NWSwlsXjIcx6CkZL7zX5QuuVT2D7TfRfWrlE8WR21hHwvf9YPzfeYu5agfHLSl3 {
+    public abstract void H0pSch9XQw75sQDNHGRLAUbXt3bOxqOZ(int i);
+
+    public abstract void uOyBevV98ltUOUilp7DoFm42UWPOTxVsABEgMe8CCuScERPxr2BKOn(int i);
+}

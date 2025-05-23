@@ -1,0 +1,4 @@
+package com.google.protobuf;
+
+public abstract class xym9wgZ7J542NQuCwCxgptMoKnFt4Dm6cyo359LJShJTrDIhKFNjvt1ODm7RIJtZ8mroo4ve5EKHNOjG5b8D9F0GnalEjEYtuzqgb8vVASbAzSRehgO4dST3nKJSldG3dE21BvcBtt851a {
+}

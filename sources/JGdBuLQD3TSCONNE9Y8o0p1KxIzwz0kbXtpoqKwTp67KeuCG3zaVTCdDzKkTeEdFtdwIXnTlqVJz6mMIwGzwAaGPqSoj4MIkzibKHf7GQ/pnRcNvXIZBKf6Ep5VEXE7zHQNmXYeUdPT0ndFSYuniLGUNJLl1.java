@@ -1,0 +1,7 @@
+package JGdBuLQD3TSCONNE9Y8o0p1KxIzwz0kbXtpoqKwTp67KeuCG3zaVTCdDzKkTeEdFtdwIXnTlqVJz6mMIwGzwAaGPqSoj4MIkzibKHf7GQ;
+
+import java.security.cert.X509Certificate;
+
+public interface pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1 {
+    X509Certificate P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(X509Certificate x509Certificate);
+}

@@ -1,0 +1,10 @@
+package rpgWEt5ihSI2YeBQ1eRb5sfgpJyg97cK2e35CF9VSKeFEcVJHSF6rsDCk8CkcRikqUCxuqqJOvdK188OMFcjHI1vbtLsgxLyWbCJ1Wxnd9pYU6IPDW1ZiWpPILbW8mXlCX3V4lTJ23B39wcl5;
+
+import java.io.Closeable;
+
+public final class wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr implements Closeable {
+    public static final wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9 = new Object();
+
+    public final void close() {
+    }
+}

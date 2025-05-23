@@ -1,0 +1,9 @@
+package ipkDVzrwIXDIilLdqJQnMVsc6nFN1gHc7V45cPiUfltapT20f;
+
+import android.text.TextPaint;
+import android.text.style.CharacterStyle;
+
+public final class wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr extends CharacterStyle {
+    public final void updateDrawState(TextPaint textPaint) {
+    }
+}

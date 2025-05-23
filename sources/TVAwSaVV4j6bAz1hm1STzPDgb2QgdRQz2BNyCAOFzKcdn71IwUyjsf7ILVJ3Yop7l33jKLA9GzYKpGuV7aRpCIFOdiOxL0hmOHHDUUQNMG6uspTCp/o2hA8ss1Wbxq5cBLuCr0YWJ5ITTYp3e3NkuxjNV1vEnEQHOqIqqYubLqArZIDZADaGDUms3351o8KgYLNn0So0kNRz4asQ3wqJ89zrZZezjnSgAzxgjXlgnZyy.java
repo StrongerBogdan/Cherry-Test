@@ -1,0 +1,22 @@
+package TVAwSaVV4j6bAz1hm1STzPDgb2QgdRQz2BNyCAOFzKcdn71IwUyjsf7ILVJ3Yop7l33jKLA9GzYKpGuV7aRpCIFOdiOxL0hmOHHDUUQNMG6uspTCp;
+
+import BfOJyZqKageCXvQ662yV4N4haMDzZchZjZJtJRHdUgXuZbihJRgnAUWAneMEWBv5d4IhRxvYQfkKIljMVFDCwca8XfoJWHvdNB4zvZT5jGunB5Ub2oTmbkzk1ZBN32YhXavKS.FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK;
+import kEoBhu4WVmUn9re08c6rLWS0tJV13RSJvMx5LCey4qaBYQi506rUKVXo8JgCj8hKq9tXtBDkKSDjELr8sOJx17ksFYlgHZ7ZtU8WMQz.bB0JGyaj0AO2i7E0aMlb1Y1AZ4X4bcNstSNc5YGcAxOCf;
+import wQHIhZJqxGpxVvC40dPLgAjr2Ens6.D8GgZbzcKj5rilKnkj8e7mJ1giKXr7PVzF6Rm3iAMV12GPJFjJsP85ro8B5TqnDd3HSKa30yTfOnQUxiSzoUz76iRkaUnM8auyBFxe5kbLQOgcMjtAdyoJ8gOPES2QZYZSBpUK6Mt0I5HQrX8aYczk;
+import wQHIhZJqxGpxVvC40dPLgAjr2Ens6.LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5;
+
+public final class o2hA8ss1Wbxq5cBLuCr0YWJ5ITTYp3e3NkuxjNV1vEnEQHOqIqqYubLqArZIDZADaGDUms3351o8KgYLNn0So0kNRz4asQ3wqJ89zrZZezjnSgAzxgjXlgnZyyI3D7c7A extends D8GgZbzcKj5rilKnkj8e7mJ1giKXr7PVzF6Rm3iAMV12GPJFjJsP85ro8B5TqnDd3HSKa30yTfOnQUxiSzoUz76iRkaUnM8auyBFxe5kbLQOgcMjtAdyoJ8gOPES2QZYZSBpUK6Mt0I5HQrX8aYczk implements FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK {
+    public static final o2hA8ss1Wbxq5cBLuCr0YWJ5ITTYp3e3NkuxjNV1vEnEQHOqIqqYubLqArZIDZADaGDUms3351o8KgYLNn0So0kNRz4asQ3wqJ89zrZZezjnSgAzxgjXlgnZyyI3D7c7A xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9 = new D8GgZbzcKj5rilKnkj8e7mJ1giKXr7PVzF6Rm3iAMV12GPJFjJsP85ro8B5TqnDd3HSKa30yTfOnQUxiSzoUz76iRkaUnM8auyBFxe5kbLQOgcMjtAdyoJ8gOPES2QZYZSBpUK6Mt0I5HQrX8aYczk(1);
+
+    public final Object invoke(Object obj) {
+        bB0JGyaj0AO2i7E0aMlb1Y1AZ4X4bcNstSNc5YGcAxOCf bb0jgyaj0ao2i7e0amlb1y1az4x4bcnstsnc5ygcaxocf = (bB0JGyaj0AO2i7E0aMlb1Y1AZ4X4bcNstSNc5YGcAxOCf) obj;
+        LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5.H0pSch9XQw75sQDNHGRLAUbXt3bOxqOZ(bb0jgyaj0ao2i7e0amlb1y1az4x4bcnstsnc5ygcaxocf, "it");
+        String str = (String) bb0jgyaj0ao2i7e0amlb1y1az4x4bcnstsnc5ygcaxocf.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+        Object obj2 = bb0jgyaj0ao2i7e0amlb1y1az4x4bcnstsnc5ygcaxocf.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw;
+        if (obj2 == null) {
+            return str;
+        }
+        String valueOf = String.valueOf(obj2);
+        return str + '=' + valueOf;
+    }
+}

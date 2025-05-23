@@ -1,0 +1,14 @@
+package com.google.protobuf;
+
+import java.util.List;
+
+public abstract class r8Ww5w9rqi3sZIgBBY07WDYDq0hMR1byiT25AV74jOdtCtElx7A1XBeUNGWr10dHhE4iq1bWaZDbZpClyjQ6e2j8vnj8hiV8OTZB6fItIqAdRpxQa08OuSQaxCVfyByhVGh3KkTXkhxES6DCJc0VdzUr {
+    public static final J01wPWQkm0at9EST0xieJIKOlnq8MsR4JoLqUe15fawJhhI5QvqPMdU2amjBAaixDoT1fdVlMij1W7tbCrfvzuZJbbYA3y P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = new Object();
+    public static final cusxATjiW1ZOSMeHUteWQKY8mhK3gDYxyVrs3bE4wC1urKk3LOklxZulu24zv9Kp90wYog7I YmFIHVAy6MFnHbke10dLWI57IXCp = new Object();
+
+    public abstract List DrqQ8C7rtVRDTSclHGsDImq(long j, Object obj);
+
+    public abstract void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(long j, Object obj);
+
+    public abstract void YmFIHVAy6MFnHbke10dLWI57IXCp(long j, Object obj, Object obj2);
+}

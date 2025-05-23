@@ -1,0 +1,15 @@
+package qme3H1qlWSaL75aIPJOWmJ48viZHSd3MtvX87tfDyQNnelAlOeCYXlHMXmaogjpDOsxPoCAjBvQgOT2SK7br;
+
+import K9ClSNTJJICPaDtwvHIwtHKA3r0LyfOP3xlgWk3u8YmzmPTkfRvEQfhssV24rEn5RcQb5M9rtPiHCkyRc0GTpMRPJ7sRBxmWWskKqD7xLFbakc6NTFnIvei6wdtvawHkG5bqZhpbmHcsiPriHcWjlugBsirs.Gq0K3IDrcB6MKo1uwraHSDISQCav0u7hXSV8wNNkQHpwU5RxffzuQg6yPfs2rK47Evh067PJSv5dmFSQlmy62xtM513UxTY;
+
+public abstract class z52efL9sITeN00fGc8wSktz9BdxeUUQmE8Ce7GjgjfLj078qt5pFI51nPKpJU8b9iO2bJ8fkUbFzxkX37kDVOuZdHTaA {
+    public static final Gq0K3IDrcB6MKo1uwraHSDISQCav0u7hXSV8wNNkQHpwU5RxffzuQg6yPfs2rK47Evh067PJSv5dmFSQlmy62xtM513UxTY DrqQ8C7rtVRDTSclHGsDImq = new Gq0K3IDrcB6MKo1uwraHSDISQCav0u7hXSV8wNNkQHpwU5RxffzuQg6yPfs2rK47Evh067PJSv5dmFSQlmy62xtM513UxTY("SelectionHandleInfo");
+    public static final float P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+    public static final float YmFIHVAy6MFnHbke10dLWI57IXCp;
+
+    static {
+        float f = (float) 25;
+        P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = f;
+        YmFIHVAy6MFnHbke10dLWI57IXCp = f;
+    }
+}

@@ -1,0 +1,7 @@
+package xRSwGRb10pYAKUpeARsVNtmyRP0FpDcVSbINbDP27bp4wQqdtRFNtNOgX6QaPEp5tk2ylT76w3D2CDoluNjyrcufPfNG1p6jd9fvlomxKWrouExNarVUEQkQ7tBSh;
+
+import android.view.KeyEvent;
+
+public interface uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH {
+    int P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(KeyEvent keyEvent);
+}

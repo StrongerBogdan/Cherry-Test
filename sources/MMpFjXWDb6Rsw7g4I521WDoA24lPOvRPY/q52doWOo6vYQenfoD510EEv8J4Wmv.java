@@ -1,0 +1,12 @@
+package MMpFjXWDb6Rsw7g4I521WDoA24lPOvRPY;
+
+public final class q52doWOo6vYQenfoD510EEv8J4Wmv {
+    public int DrqQ8C7rtVRDTSclHGsDImq;
+    public boolean H0pSch9XQw75sQDNHGRLAUbXt3bOxqOZ;
+    public boolean P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+    public String VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU;
+    public boolean YmFIHVAy6MFnHbke10dLWI57IXCp;
+    public boolean oyvK1kTrRf3tlj9fHjZjN6freUc3VsJnyo10eIgiHGpIjYVqzmOqLAZyI78j0nhqnpvpZBYcayT3cwe9aGiIeTqRiS9dC9fYyEc1BLd6JBDW4vtIRArnnO7yLJU;
+    public int peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6;
+    public int uOyBevV98ltUOUilp7DoFm42UWPOTxVsABEgMe8CCuScERPxr2BKOn;
+}

@@ -1,0 +1,39 @@
+package LpJrvPJZgfMWhzDqYlD5h2rrEkHInLSqeG19dMLEUepln6GC1EX3oXOEKIA4hj2lSfZGJJ2x3n3mSMX6;
+
+import CzCh11bKXsi2JUI0czy6u2bxV7chpbZv4iVdmzIm9MJSNPtMpTjVOqisSiWg1Uo7ZbonYcCmO708ekSHiD2A88x6J51.LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5;
+import CzCh11bKXsi2JUI0czy6u2bxV7chpbZv4iVdmzIm9MJSNPtMpTjVOqisSiWg1Uo7ZbonYcCmO708ekSHiD2A88x6J51.pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1;
+import android.content.ComponentName;
+import android.content.ServiceConnection;
+import android.os.IBinder;
+import android.os.Messenger;
+import android.util.Log;
+import java.util.ArrayList;
+import java.util.concurrent.LinkedBlockingDeque;
+import jdxzDmFMbg07IjI7PcEPkz1VanpkwzwtfbCexn664xTLWcPT19DMVQM8hDZEAhKtK8Ty4LKyafeJAl8bLKf.hcbD5JnYtZWRUplQnAKSB4K6rMgILsdqTepvJUiT5QvBVnKVg8pMGRAkHHhIH7CCrpe8RdZ04tGKL9Ow2M6iiLPGOgY9QUurTIjfxWKZ;
+import wYBCCsFMvDpu12Co18Mm0Qosb7ZQOHJBbNLI0.gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG;
+
+public final class fjnDmDRWDWTE0t3jkJPcYK implements ServiceConnection {
+    public final /* synthetic */ gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+
+    public fjnDmDRWDWTE0t3jkJPcYK(gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig) {
+        this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9 = gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig;
+    }
+
+    public final void onServiceConnected(ComponentName componentName, IBinder iBinder) {
+        StringBuilder sb = new StringBuilder("Connected to SessionLifecycleService. Queue size ");
+        gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig = this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+        sb.append(((LinkedBlockingDeque) gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT).size());
+        Log.d("SessionLifecycleClient", sb.toString());
+        gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw = new Messenger(iBinder);
+        ArrayList arrayList = new ArrayList();
+        ((LinkedBlockingDeque) gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig.GEJ0M5KiUkDTlHAt9gYzjWH5mZj3QywYxE1lC7TUmoCdg776JJFVdWFXRPT).drainTo(arrayList);
+        hcbD5JnYtZWRUplQnAKSB4K6rMgILsdqTepvJUiT5QvBVnKVg8pMGRAkHHhIH7CCrpe8RdZ04tGKL9Ow2M6iiLPGOgY9QUurTIjfxWKZ.OKEFRhs6OXFJKyry5Z71CY76oDnwhW5FJg2OAPnj9ulD5LM4Kq5Bjc83bCfwXFNmMjv6yp6Ftre2cNRkaH0Q3xMOZ2hMufJD0zymR1CE8pqwQRzY(hcbD5JnYtZWRUplQnAKSB4K6rMgILsdqTepvJUiT5QvBVnKVg8pMGRAkHHhIH7CCrpe8RdZ04tGKL9Ow2M6iiLPGOgY9QUurTIjfxWKZ.DrqQ8C7rtVRDTSclHGsDImq((LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5) gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9), (LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5) null, 0, new cEa3c8vSLSVxwUJcLf4f9n3Gm28VoElpOXpuEFrEU9s1mKvk7PRPvMsE3QGsDlHAMYk9j0YTqs8eAYU732M3SapHWpxkiM6pSFFn95qy86rVVLfUBQZEGGQc44RdDXl9GYcMpMebwPmZReMcrcWIIcb2(gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig, arrayList, (pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1) null), 3);
+    }
+
+    public final void onServiceDisconnected(ComponentName componentName) {
+        Log.d("SessionLifecycleClient", "Disconnected from SessionLifecycleService");
+        gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig = this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+        gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig.Peh2iernJBsMiysuDaEEhSyoW0hY6wz4p5JrcYuartaKXGwf325V19iGs4irf5afpcICDX8gqxpUgk7Tw = null;
+        gevzisgpxstsc2qbbniqnk9dyjfzcnv2t4t4wppb9vs9pdsjzyxpgsig.getClass();
+    }
+}

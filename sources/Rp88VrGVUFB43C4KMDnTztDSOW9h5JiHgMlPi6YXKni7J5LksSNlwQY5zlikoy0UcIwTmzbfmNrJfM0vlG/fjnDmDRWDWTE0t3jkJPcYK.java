@@ -1,0 +1,6 @@
+package Rp88VrGVUFB43C4KMDnTztDSOW9h5JiHgMlPi6YXKni7J5LksSNlwQY5zlikoy0UcIwTmzbfmNrJfM0vlG;
+
+public abstract class fjnDmDRWDWTE0t3jkJPcYK {
+    public static final long P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = cQpWp7khq2fiuZHOXpA9yYbRyhmneZQO9OSGMiUp5qnmmQqj00YZtSGXuaSu.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(Float.NaN, Float.NaN);
+    public static final /* synthetic */ int YmFIHVAy6MFnHbke10dLWI57IXCp = 0;
+}

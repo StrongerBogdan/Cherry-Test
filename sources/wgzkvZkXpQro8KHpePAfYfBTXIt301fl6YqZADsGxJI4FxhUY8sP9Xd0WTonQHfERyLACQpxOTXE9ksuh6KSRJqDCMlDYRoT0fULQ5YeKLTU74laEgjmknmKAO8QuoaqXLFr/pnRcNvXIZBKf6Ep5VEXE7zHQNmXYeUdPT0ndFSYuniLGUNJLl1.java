@@ -1,0 +1,7 @@
+package wgzkvZkXpQro8KHpePAfYfBTXIt301fl6YqZADsGxJI4FxhUY8sP9Xd0WTonQHfERyLACQpxOTXE9ksuh6KSRJqDCMlDYRoT0fULQ5YeKLTU74laEgjmknmKAO8QuoaqXLFr;
+
+import android.os.Build;
+
+public abstract class pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1 {
+    public static final boolean P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = (Build.VERSION.SDK_INT >= 34);
+}

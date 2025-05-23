@@ -1,0 +1,7 @@
+package NXQxOwVVlB8C9IxBB6xkQfzcbmwB;
+
+public abstract class FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK {
+    public abstract void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(Object obj);
+
+    public abstract void YmFIHVAy6MFnHbke10dLWI57IXCp();
+}

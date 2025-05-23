@@ -1,0 +1,12 @@
+package BE8JVrulQ7ijGztmAfDOtVT5YsrSogoWMTVkIaE0OkQ8wAF1jp6ASCcLAIcyXFwkObQduU4gkPUUXsxo99jIVxO0ZQMDqodZWUexvtAepDoWsMH3AfX91fDYPrZVDGYzU7jFKF3n1KKXCyuE;
+
+import android.view.View;
+import android.view.ViewStructure;
+
+public final class UUtAgNzTj2jiPR9EkDXBkbhLdyE9LX8zEPE1EhyZlUlh3FbUBpcPK3kHpDSNHq6rc3 {
+    public static final UUtAgNzTj2jiPR9EkDXBkbhLdyE9LX8zEPE1EhyZlUlh3FbUBpcPK3kHpDSNHq6rc3 P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = new Object();
+
+    public final void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(ViewStructure viewStructure, View view) {
+        viewStructure.setClassName(view.getAccessibilityClassName().toString());
+    }
+}

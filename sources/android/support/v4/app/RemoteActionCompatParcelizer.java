@@ -1,0 +1,14 @@
+package android.support.v4.app;
+
+import B2LtVfQo6YymAHBWxVzd1qW30Tg4k5eqAoy3dUXwfow1x5jXjdrQNWTph7EVEdlupikpK2rEciGrM2PdC8b8HPzgzDJSQTQRjGfzcRp3ZThmUkjBWCoNeIY.LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA;
+import androidx.core.app.RemoteActionCompat;
+
+public final class RemoteActionCompatParcelizer extends androidx.core.app.RemoteActionCompatParcelizer {
+    public static RemoteActionCompat read(LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA lKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA) {
+        return androidx.core.app.RemoteActionCompatParcelizer.read(lKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA);
+    }
+
+    public static void write(RemoteActionCompat remoteActionCompat, LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA lKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA) {
+        androidx.core.app.RemoteActionCompatParcelizer.write(remoteActionCompat, lKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA);
+    }
+}

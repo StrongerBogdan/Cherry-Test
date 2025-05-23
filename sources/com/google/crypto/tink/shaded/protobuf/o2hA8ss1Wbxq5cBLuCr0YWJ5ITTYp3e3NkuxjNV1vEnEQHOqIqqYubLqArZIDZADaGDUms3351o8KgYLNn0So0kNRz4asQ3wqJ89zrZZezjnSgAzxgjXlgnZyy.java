@@ -1,0 +1,13 @@
+package com.google.crypto.tink.shaded.protobuf;
+
+import java.util.List;
+
+public interface o2hA8ss1Wbxq5cBLuCr0YWJ5ITTYp3e3NkuxjNV1vEnEQHOqIqqYubLqArZIDZADaGDUms3351o8KgYLNn0So0kNRz4asQ3wqJ89zrZZezjnSgAzxgjXlgnZyyI3D7c7A extends List {
+    Object BrinjKkMNX0Ww9FldCotLl2(int i);
+
+    List VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU();
+
+    o2hA8ss1Wbxq5cBLuCr0YWJ5ITTYp3e3NkuxjNV1vEnEQHOqIqqYubLqArZIDZADaGDUms3351o8KgYLNn0So0kNRz4asQ3wqJ89zrZZezjnSgAzxgjXlgnZyyI3D7c7A oyvK1kTrRf3tlj9fHjZjN6freUc3VsJnyo10eIgiHGpIjYVqzmOqLAZyI78j0nhqnpvpZBYcayT3cwe9aGiIeTqRiS9dC9fYyEc1BLd6JBDW4vtIRArnnO7yLJU();
+
+    void yY0Yc5sPaZSYCL0bdTcevx7ABnXkQlKd3EpshlFldxtWb01ZPTjz2XoFnsZBK8oCDGLLaHFtrvKumkvfV0W(bB0JGyaj0AO2i7E0aMlb1Y1AZ4X4bcNstSNc5YGcAxOCf bb0jgyaj0ao2i7e0amlb1y1az4x4bcnstsnc5ygcaxocf);
+}

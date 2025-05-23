@@ -1,0 +1,5 @@
+package lwE3HdsfCjhNV5HiHXFCZe8lZwSh06rHraLANdjXIVm84GdGkLF6Xw26VowOKLdoQXsGmbhBOOzfnoUNIoQnvAynrmYyPtOtcYtQffpAKgzSZdzKUuEQaYByeWePMJj8QTkpm7;
+
+public interface LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5 {
+    double VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU(double d);
+}

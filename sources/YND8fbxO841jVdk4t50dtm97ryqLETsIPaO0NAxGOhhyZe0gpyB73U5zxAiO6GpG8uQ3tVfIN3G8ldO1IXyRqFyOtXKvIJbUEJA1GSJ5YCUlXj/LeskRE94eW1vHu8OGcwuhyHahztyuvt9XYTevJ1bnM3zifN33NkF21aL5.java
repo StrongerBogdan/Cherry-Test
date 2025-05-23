@@ -1,0 +1,12 @@
+package YND8fbxO841jVdk4t50dtm97ryqLETsIPaO0NAxGOhhyZe0gpyB73U5zxAiO6GpG8uQ3tVfIN3G8ldO1IXyRqFyOtXKvIJbUEJA1GSJ5YCUlXj;
+
+import android.view.View;
+import android.view.inputmethod.InputMethodManager;
+
+public final class LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5 {
+    public static final LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5 P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = new Object();
+
+    public final void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(InputMethodManager inputMethodManager, View view) {
+        inputMethodManager.startStylusHandwriting(view);
+    }
+}

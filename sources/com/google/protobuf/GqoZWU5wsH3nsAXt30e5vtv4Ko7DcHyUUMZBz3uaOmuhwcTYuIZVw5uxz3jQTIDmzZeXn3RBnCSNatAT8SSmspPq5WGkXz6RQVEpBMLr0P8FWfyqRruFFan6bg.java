@@ -1,0 +1,13 @@
+package com.google.protobuf;
+
+import java.util.List;
+
+public interface GqoZWU5wsH3nsAXt30e5vtv4Ko7DcHyUUMZBz3uaOmuhwcTYuIZVw5uxz3jQTIDmzZeXn3RBnCSNatAT8SSmspPq5WGkXz6RQVEpBMLr0P8FWfyqRruFFan6bgEXdU1S98fDCsk9Xd2 extends List {
+    Object BrinjKkMNX0Ww9FldCotLl2(int i);
+
+    List VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU();
+
+    GqoZWU5wsH3nsAXt30e5vtv4Ko7DcHyUUMZBz3uaOmuhwcTYuIZVw5uxz3jQTIDmzZeXn3RBnCSNatAT8SSmspPq5WGkXz6RQVEpBMLr0P8FWfyqRruFFan6bgEXdU1S98fDCsk9Xd2 oyvK1kTrRf3tlj9fHjZjN6freUc3VsJnyo10eIgiHGpIjYVqzmOqLAZyI78j0nhqnpvpZBYcayT3cwe9aGiIeTqRiS9dC9fYyEc1BLd6JBDW4vtIRArnnO7yLJU();
+
+    void qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG(tygdzrfuG3bl1r2ouET5CaGhmt4ugo8 tygdzrfug3bl1r2ouet5caghmt4ugo8);
+}

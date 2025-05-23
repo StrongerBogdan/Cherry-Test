@@ -1,0 +1,12 @@
+package com.google.firebase.analytics.ktx;
+
+import JYJjVrtoNPH0ZPVFuXUUUodrW1lMAjpTvOe744s6s17UKUwuiHWN7QnbHz0A94mKrW23YzpGAZQ1TBH6hRnR.M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh;
+import JYJjVrtoNPH0ZPVFuXUUUodrW1lMAjpTvOe744s6s17UKUwuiHWN7QnbHz0A94mKrW23YzpGAZQ1TBH6hRnR.pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1;
+import com.google.firebase.components.ComponentRegistrar;
+import java.util.List;
+
+public final class FirebaseAnalyticsLegacyRegistrar implements ComponentRegistrar {
+    public final List getComponents() {
+        return pnRcNvXIZBKf6Ep5VEXE7zHQNmXYeUdPT0ndFSYuniLGUNJLl1.RjT0U5i946Gybz6DXccidXljfUHnYkuWeyP3IoANcwRRnisDLisitu9aT8ZN8kJ6AFZM2aqfCAaFXiKjGToldgfVSS3oT(M3SW7lhn3CC34g1pOnXRwQAqcaE5solEHAhxEeoyf4PIh.MpRBpNrjxc88YGOdF3YXoXikPrH0sSQeGfoXZdqvz2MGS91lWjJkxCmirPdWqCBnYYYw5VZnyZqtcFHP87gc4UKrkyk5O2y8apbEODbmKxkNR7Cy4QUOXTIWZDXjgf1("fire-analytics-ktx", "21.5.1"));
+    }
+}

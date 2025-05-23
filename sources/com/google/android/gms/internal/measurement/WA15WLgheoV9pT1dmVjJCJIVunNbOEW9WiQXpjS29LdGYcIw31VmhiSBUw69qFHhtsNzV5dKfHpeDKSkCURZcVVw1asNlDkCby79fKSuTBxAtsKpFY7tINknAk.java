@@ -1,0 +1,47 @@
+package com.google.android.gms.internal.measurement;
+
+import android.os.Bundle;
+import flpKXtkxsYs6HzZU6JlcZT0W6k0hSkhHAMmrAYMHm7uThy4GCN2k3f1dOwGQhtd0ak9RrNhLL5P9QUoMZt0BAigZvbe8xa2XMO8RJUFU2gDYqwCZIiejUs4bvVhZvhi6duKPhA1nTsnXIbWud9enjgHU1.Hfv852lbufjqS9YvuotOQGMlAwbT93xAB7vm4I08c6qrPUQoF33xZ7tgcFr07lRFO0AjYBoYHfH7ytkOI;
+import jfLJ5y9H2zUeZhkWcCSqeK7kaqWAQ6B3tfW6w2T7h2W.LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA;
+
+public final class WA15WLgheoV9pT1dmVjJCJIVunNbOEW9WiQXpjS29LdGYcIw31VmhiSBUw69qFHhtsNzV5dKfHpeDKSkCURZcVVw1asNlDkCby79fKSuTBxAtsKpFY7tINknAkxqNVZoe extends sEsrwl7iHhMvnlaL7rU9b2umIDPplRlPZCOlVPNaNqgem9IzpGgQzJ1jKl1KDxXZ42Fs0Jan3EQij50jeJqf16VWoa5 {
+    public final /* synthetic */ Object NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN;
+    public final /* synthetic */ int ldGdYLUh6hMmv4Hx5TzlrrWxo0uqaUSVZfITVO5uH8OME4MWnKFycS8Eu4oWAhjwOIOnBDRLQYn5vN4frfi8x7xEl0yzxR96;
+    public final /* synthetic */ tesoyBtHZ8RPf9nBL7HNn64VUK5a3dngXz07MIVPOrEHfmLAcFoaP61EAQSHGlHSlM qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public /* synthetic */ WA15WLgheoV9pT1dmVjJCJIVunNbOEW9WiQXpjS29LdGYcIw31VmhiSBUw69qFHhtsNzV5dKfHpeDKSkCURZcVVw1asNlDkCby79fKSuTBxAtsKpFY7tINknAkxqNVZoe(tesoyBtHZ8RPf9nBL7HNn64VUK5a3dngXz07MIVPOrEHfmLAcFoaP61EAQSHGlHSlM tesoybthz8rpf9nbl7hnn64vuk5a3dngxz07mivporehfmlacfoap61eaqshglhslm, Object obj, int i) {
+        super(tesoybthz8rpf9nbl7hnn64vuk5a3dngxz07mivporehfmlacfoap61eaqshglhslm, true);
+        this.ldGdYLUh6hMmv4Hx5TzlrrWxo0uqaUSVZfITVO5uH8OME4MWnKFycS8Eu4oWAhjwOIOnBDRLQYn5vN4frfi8x7xEl0yzxR96 = i;
+        this.NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN = obj;
+        this.qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG = tesoybthz8rpf9nbl7hnn64vuk5a3dngxz07mivporehfmlacfoap61eaqshglhslm;
+    }
+
+    public final void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d() {
+        switch (this.ldGdYLUh6hMmv4Hx5TzlrrWxo0uqaUSVZfITVO5uH8OME4MWnKFycS8Eu4oWAhjwOIOnBDRLQYn5vN4frfi8x7xEl0yzxR96) {
+            case 0:
+                asQX8JK5HmDXPcoA9YxLn7cpuBp3KP6Kb3odxWwo12KJ5d8EadSLwry1kNCpB2BMyI1q8ppamvM7V8TMZX0u4yLfB75z4Zfx44zbxotyq8ZtBder4E2Ym1q0028YzDwhrBpztS4K5wnrw39ja asqx8jk5hmdxpcoa9yxln7cpubp3kp6kb3odxwwo12kj5d8eadslwry1kncpb2bmyi1q8ppamvm7v8tmzx0u4ylfb75z4zfx44zbxotyq8ztbder4e2ym1q0028yzdwhrbpzts4k5wnrw39ja = this.qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG.peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6;
+                Hfv852lbufjqS9YvuotOQGMlAwbT93xAB7vm4I08c6qrPUQoF33xZ7tgcFr07lRFO0AjYBoYHfH7ytkOI.peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6(asqx8jk5hmdxpcoa9yxln7cpubp3kp6kb3odxwwo12kj5d8eadslwry1kncpb2bmyi1q8ppamvm7v8tmzx0u4ylfb75z4zfx44zbxotyq8ztbder4e2ym1q0028yzdwhrbpzts4k5wnrw39ja);
+                asqx8jk5hmdxpcoa9yxln7cpubp3kp6kb3odxwwo12kj5d8eadslwry1kncpb2bmyi1q8ppamvm7v8tmzx0u4ylfb75z4zfx44zbxotyq8ztbder4e2ym1q0028yzdwhrbpzts4k5wnrw39ja.setConditionalUserProperty((Bundle) this.NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN, this.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9);
+                return;
+            case 1:
+                asQX8JK5HmDXPcoA9YxLn7cpuBp3KP6Kb3odxWwo12KJ5d8EadSLwry1kNCpB2BMyI1q8ppamvM7V8TMZX0u4yLfB75z4Zfx44zbxotyq8ZtBder4E2Ym1q0028YzDwhrBpztS4K5wnrw39ja asqx8jk5hmdxpcoa9yxln7cpubp3kp6kb3odxwwo12kj5d8eadslwry1kncpb2bmyi1q8ppamvm7v8tmzx0u4ylfb75z4zfx44zbxotyq8ztbder4e2ym1q0028yzdwhrbpzts4k5wnrw39ja2 = this.qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG.peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6;
+                Hfv852lbufjqS9YvuotOQGMlAwbT93xAB7vm4I08c6qrPUQoF33xZ7tgcFr07lRFO0AjYBoYHfH7ytkOI.peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6(asqx8jk5hmdxpcoa9yxln7cpubp3kp6kb3odxwwo12kj5d8eadslwry1kncpb2bmyi1q8ppamvm7v8tmzx0u4ylfb75z4zfx44zbxotyq8ztbder4e2ym1q0028yzdwhrbpzts4k5wnrw39ja2);
+                asqx8jk5hmdxpcoa9yxln7cpubp3kp6kb3odxwwo12kj5d8eadslwry1kncpb2bmyi1q8ppamvm7v8tmzx0u4ylfb75z4zfx44zbxotyq8ztbder4e2ym1q0028yzdwhrbpzts4k5wnrw39ja2.logHealthData(5, "Error with data collection. Data lost.", new LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA((Exception) this.NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN), new LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA((Object) null), new LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA((Object) null));
+                return;
+            default:
+                asQX8JK5HmDXPcoA9YxLn7cpuBp3KP6Kb3odxWwo12KJ5d8EadSLwry1kNCpB2BMyI1q8ppamvM7V8TMZX0u4yLfB75z4Zfx44zbxotyq8ZtBder4E2Ym1q0028YzDwhrBpztS4K5wnrw39ja asqx8jk5hmdxpcoa9yxln7cpubp3kp6kb3odxwwo12kj5d8eadslwry1kncpb2bmyi1q8ppamvm7v8tmzx0u4ylfb75z4zfx44zbxotyq8ztbder4e2ym1q0028yzdwhrbpzts4k5wnrw39ja3 = this.qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG.peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6;
+                Hfv852lbufjqS9YvuotOQGMlAwbT93xAB7vm4I08c6qrPUQoF33xZ7tgcFr07lRFO0AjYBoYHfH7ytkOI.peWj2vBaTGXaSVZcclMS1QR5VFfj9k2Ro1TkEeOT4X7bpWNeX4hNGCEdprBXcQXCbLki3foy6j7SpuBuT6(asqx8jk5hmdxpcoa9yxln7cpubp3kp6kb3odxwwo12kj5d8eadslwry1kncpb2bmyi1q8ppamvm7v8tmzx0u4ylfb75z4zfx44zbxotyq8ztbder4e2ym1q0028yzdwhrbpzts4k5wnrw39ja3);
+                asqx8jk5hmdxpcoa9yxln7cpubp3kp6kb3odxwwo12kj5d8eadslwry1kncpb2bmyi1q8ppamvm7v8tmzx0u4ylfb75z4zfx44zbxotyq8ztbder4e2ym1q0028yzdwhrbpzts4k5wnrw39ja3.registerOnMeasurementEventListener((fo9TgqYVvhowqEry4TEwIKgoCTy05UiNtIEbmF5RfffRDUBYTN9K) this.NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN);
+                return;
+        }
+    }
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public WA15WLgheoV9pT1dmVjJCJIVunNbOEW9WiQXpjS29LdGYcIw31VmhiSBUw69qFHhtsNzV5dKfHpeDKSkCURZcVVw1asNlDkCby79fKSuTBxAtsKpFY7tINknAkxqNVZoe(tesoyBtHZ8RPf9nBL7HNn64VUK5a3dngXz07MIVPOrEHfmLAcFoaP61EAQSHGlHSlM tesoybthz8rpf9nbl7hnn64vuk5a3dngxz07mivporehfmlacfoap61eaqshglhslm, Exception exc) {
+        super(tesoybthz8rpf9nbl7hnn64vuk5a3dngxz07mivporehfmlacfoap61eaqshglhslm, false);
+        this.ldGdYLUh6hMmv4Hx5TzlrrWxo0uqaUSVZfITVO5uH8OME4MWnKFycS8Eu4oWAhjwOIOnBDRLQYn5vN4frfi8x7xEl0yzxR96 = 1;
+        this.NcFY6nnnD3zDVXsC1ujUmiLNn3XFBORW4CQPT3JG0ipXsN = exc;
+        this.qET9a8lmqGmWjBV7vMaqNX6EIjrBJ1BEMmsBfo1nCSKWtIwkxCVLD9vLcOZZRJp6QDWeKGIQY4h2lSrJi4j6oHeQROm4bMvRnOY1DhEjcLrefVJZ4jeMUOP5Zb1eeRRojbQtbf6WYpzrby7DrQ8msL9fG = tesoybthz8rpf9nbl7hnn64vuk5a3dngxz07mivporehfmlacfoap61eaqshglhslm;
+    }
+}

@@ -1,0 +1,11 @@
+package K9ClSNTJJICPaDtwvHIwtHKA3r0LyfOP3xlgWk3u8YmzmPTkfRvEQfhssV24rEn5RcQb5M9rtPiHCkyRc0GTpMRPJ7sRBxmWWskKqD7xLFbakc6NTFnIvei6wdtvawHkG5bqZhpbmHcsiPriHcWjlugBsirs;
+
+public final class LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA {
+    public final int P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+    public final int YmFIHVAy6MFnHbke10dLWI57IXCp;
+
+    public LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA(int i, int i2) {
+        this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = i;
+        this.YmFIHVAy6MFnHbke10dLWI57IXCp = i2;
+    }
+}

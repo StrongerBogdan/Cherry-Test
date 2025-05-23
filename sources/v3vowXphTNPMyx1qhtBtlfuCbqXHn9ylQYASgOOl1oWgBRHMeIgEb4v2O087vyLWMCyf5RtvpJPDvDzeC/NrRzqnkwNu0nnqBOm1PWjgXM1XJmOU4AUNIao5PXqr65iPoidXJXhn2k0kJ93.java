@@ -1,0 +1,6 @@
+package v3vowXphTNPMyx1qhtBtlfuCbqXHn9ylQYASgOOl1oWgBRHMeIgEb4v2O087vyLWMCyf5RtvpJPDvDzeC;
+
+import java.util.NoSuchElementException;
+
+public final class NrRzqnkwNu0nnqBOm1PWjgXM1XJmOU4AUNIao5PXqr65iPoidXJXhn2k0kJ93 extends NoSuchElementException {
+}

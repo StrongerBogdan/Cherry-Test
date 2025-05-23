@@ -1,0 +1,5 @@
+package niHrM4lpXZMz6YMtpgKZjl6wuI0gjgIPVPOxEg94M9CZNpl0ZaEJMAVMBlbDj85HaYovaltFDeN5RO7qRFNH6b65TL442Etd6EuwG5csILQXH9v5JcbmovUK0EBrhdBk0Xrukofv29GENx2PkCAl;
+
+public interface wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr {
+    void close();
+}

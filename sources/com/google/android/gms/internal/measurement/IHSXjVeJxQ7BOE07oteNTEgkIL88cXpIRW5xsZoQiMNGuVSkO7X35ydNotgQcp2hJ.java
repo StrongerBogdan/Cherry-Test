@@ -1,0 +1,7 @@
+package com.google.android.gms.internal.measurement;
+
+public interface IHSXjVeJxQ7BOE07oteNTEgkIL88cXpIRW5xsZoQiMNGuVSkO7X35ydNotgQcp2hJ {
+    boolean P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(Class cls);
+
+    nlsQe0ha6QupapP09jJcetEtxl8PGPsY1T9aDMu60OuXxmcHmsm1Mdnb6ZY4u4v YmFIHVAy6MFnHbke10dLWI57IXCp(Class cls);
+}

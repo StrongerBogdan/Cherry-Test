@@ -1,0 +1,25 @@
+package LRvH1s9Myp8RSLYfFGmMPYIZTAlBk4BWyHTHTqfEzmpfR5PNm4mBmSdYP2SnXjdFeN2einY4hK4r3j2yjMFQPIh;
+
+import YND8fbxO841jVdk4t50dtm97ryqLETsIPaO0NAxGOhhyZe0gpyB73U5zxAiO6GpG8uQ3tVfIN3G8ldO1IXyRqFyOtXKvIJbUEJA1GSJ5YCUlXj.xym9wgZ7J542NQuCwCxgptMoKnFt4Dm6cyo359LJShJTrDIhKFNjvt1ODm7RIJtZ8mroo4ve5EKHNOjG5b8D9F0GnalEjEYtuzqgb8vVASbAzSRehgO4dST3nKJSldG3dE21BvcBtt851a;
+import android.os.CancellationSignal;
+import android.view.inputmethod.HandwritingGesture;
+import android.view.inputmethod.PreviewableHandwritingGesture;
+import java.util.concurrent.Executor;
+import java.util.function.IntConsumer;
+
+public final class EnIuAlkglP8FgbJ5MXr6zWuinpSgBjAv1kbSsRmbVqeBpdXcylin4OJ403mF9ia9IJajDYHJMWiqjLwR8KV5bqLMC3kCnGiP0CWqV73n0OqGwLNtd4vXhHgIfA6RngPwviUm25YptQNGVYU8XTH extends gevZisGpxsTSC2qbbnIQnk9DyjfZCnV2T4t4wpPB9Vs9pdSjZYxPGSiG {
+    public final void performHandwritingGesture(HandwritingGesture handwritingGesture, Executor executor, IntConsumer intConsumer) {
+        xym9wgZ7J542NQuCwCxgptMoKnFt4Dm6cyo359LJShJTrDIhKFNjvt1ODm7RIJtZ8mroo4ve5EKHNOjG5b8D9F0GnalEjEYtuzqgb8vVASbAzSRehgO4dST3nKJSldG3dE21BvcBtt851a xym9wgz7j542nqucwcxgptmoknft4dm6cyo359ljshjtrdihkfnjvt1odm7rijtz8mroo4ve5ekhnojg5b8d9f0gnalejeytuzqgb8vvasbazsrehgo4dst3nkjsldg3de21bvcbtt851a = this.YmFIHVAy6MFnHbke10dLWI57IXCp;
+        if (xym9wgz7j542nqucwcxgptmoknft4dm6cyo359ljshjtrdihkfnjvt1odm7rijtz8mroo4ve5ekhnojg5b8d9f0gnalejeytuzqgb8vvasbazsrehgo4dst3nkjsldg3de21bvcbtt851a != null) {
+            xym9wgz7j542nqucwcxgptmoknft4dm6cyo359ljshjtrdihkfnjvt1odm7rijtz8mroo4ve5ekhnojg5b8d9f0gnalejeytuzqgb8vvasbazsrehgo4dst3nkjsldg3de21bvcbtt851a.performHandwritingGesture(handwritingGesture, executor, intConsumer);
+        }
+    }
+
+    public final boolean previewHandwritingGesture(PreviewableHandwritingGesture previewableHandwritingGesture, CancellationSignal cancellationSignal) {
+        xym9wgZ7J542NQuCwCxgptMoKnFt4Dm6cyo359LJShJTrDIhKFNjvt1ODm7RIJtZ8mroo4ve5EKHNOjG5b8D9F0GnalEjEYtuzqgb8vVASbAzSRehgO4dST3nKJSldG3dE21BvcBtt851a xym9wgz7j542nqucwcxgptmoknft4dm6cyo359ljshjtrdihkfnjvt1odm7rijtz8mroo4ve5ekhnojg5b8d9f0gnalejeytuzqgb8vvasbazsrehgo4dst3nkjsldg3de21bvcbtt851a = this.YmFIHVAy6MFnHbke10dLWI57IXCp;
+        if (xym9wgz7j542nqucwcxgptmoknft4dm6cyo359ljshjtrdihkfnjvt1odm7rijtz8mroo4ve5ekhnojg5b8d9f0gnalejeytuzqgb8vvasbazsrehgo4dst3nkjsldg3de21bvcbtt851a != null) {
+            return xym9wgz7j542nqucwcxgptmoknft4dm6cyo359ljshjtrdihkfnjvt1odm7rijtz8mroo4ve5ekhnojg5b8d9f0gnalejeytuzqgb8vvasbazsrehgo4dst3nkjsldg3de21bvcbtt851a.previewHandwritingGesture(previewableHandwritingGesture, cancellationSignal);
+        }
+        return false;
+    }
+}

@@ -1,0 +1,37 @@
+package niHrM4lpXZMz6YMtpgKZjl6wuI0gjgIPVPOxEg94M9CZNpl0ZaEJMAVMBlbDj85HaYovaltFDeN5RO7qRFNH6b65TL442Etd6EuwG5csILQXH9v5JcbmovUK0EBrhdBk0Xrukofv29GENx2PkCAl;
+
+import BfOJyZqKageCXvQ662yV4N4haMDzZchZjZJtJRHdUgXuZbihJRgnAUWAneMEWBv5d4IhRxvYQfkKIljMVFDCwca8XfoJWHvdNB4zvZT5jGunB5Ub2oTmbkzk1ZBN32YhXavKS.FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK;
+import BfOJyZqKageCXvQ662yV4N4haMDzZchZjZJtJRHdUgXuZbihJRgnAUWAneMEWBv5d4IhRxvYQfkKIljMVFDCwca8XfoJWHvdNB4zvZT5jGunB5Ub2oTmbkzk1ZBN32YhXavKS.wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr;
+import FoSvONJrZgp8imXlovH5TlWnpDU1uidPVmg2me9QB84I0Tv7Nh13I94ZCOXxCtpsecZs.LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5;
+import java.io.File;
+import java.util.LinkedHashSet;
+
+public final class UUtAgNzTj2jiPR9EkDXBkbhLdyE9LX8zEPE1EhyZlUlh3FbUBpcPK3kHpDSNHq6rc3 implements AEsKSGBXyDotAtDNmgW0sSUsLBlTzaj4bQ1WuiNHsGinU17ucz4huFJuQzZYGM8fT8xNtuDnpcyFFO6 {
+    public static final LinkedHashSet VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU = new LinkedHashSet();
+    public static final Object oyvK1kTrRf3tlj9fHjZjN6freUc3VsJnyo10eIgiHGpIjYVqzmOqLAZyI78j0nhqnpvpZBYcayT3cwe9aGiIeTqRiS9dC9fYyEc1BLd6JBDW4vtIRArnnO7yLJU = new Object();
+    public final wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr DrqQ8C7rtVRDTSclHGsDImq;
+    public final v2wjQGIYKtptlL26qn5XwdDuvmexCAORUDZpREtraR1ueU7YbldDnIVZO7oKqnBCQTAQ1lAt8 P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d;
+    public final FGrvCTY9aqtjVPkeckAZZbvRrR6Fir62RvUi5CYJVOsGK YmFIHVAy6MFnHbke10dLWI57IXCp;
+
+    public UUtAgNzTj2jiPR9EkDXBkbhLdyE9LX8zEPE1EhyZlUlh3FbUBpcPK3kHpDSNHq6rc3(v2wjQGIYKtptlL26qn5XwdDuvmexCAORUDZpREtraR1ueU7YbldDnIVZO7oKqnBCQTAQ1lAt8 v2wjqgiyktptll26qn5xwdduvmexcaorudzpretrar1ueu7yblddnivzo7okqnbcqtaq1lat8, wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr wxb0qvqhswul8vrxkkbslrnk5urnk8u0eo1klvjtk4di22c3qvszwtipok8kppaijvk9i3qm8jfjlcaw8qtbleiujz8cr) {
+        PBNvgPQTsxcVT7V1y571pvQJVehXxhiBiaXTam5htIHHSDhhlaZxi5cIbgKk8KgS5zGoa8VGokxFbMiVhKVlRqzgCCg0WtRdcBl3GHYGsSHRS48NQPlrB5UiaoWTx64OqA2CuUR8 pBNvgPQTsxcVT7V1y571pvQJVehXxhiBiaXTam5htIHHSDhhlaZxi5cIbgKk8KgS5zGoa8VGokxFbMiVhKVlRqzgCCg0WtRdcBl3GHYGsSHRS48NQPlrB5UiaoWTx64OqA2CuUR8 = PBNvgPQTsxcVT7V1y571pvQJVehXxhiBiaXTam5htIHHSDhhlaZxi5cIbgKk8KgS5zGoa8VGokxFbMiVhKVlRqzgCCg0WtRdcBl3GHYGsSHRS48NQPlrB5UiaoWTx64OqA2CuUR8.xLZDBdMW3Qt8sEKsLu9uO5A4afl8X5yqkq9eKmpVYKSmLUGpXoBDJvpLPfckZDn6oT3tMuZNRzv4TNaxBieK1TuGkkKKj9;
+        this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d = v2wjqgiyktptll26qn5xwdduvmexcaorudzpretrar1ueu7yblddnivzo7okqnbcqtaq1lat8;
+        this.YmFIHVAy6MFnHbke10dLWI57IXCp = pBNvgPQTsxcVT7V1y571pvQJVehXxhiBiaXTam5htIHHSDhhlaZxi5cIbgKk8KgS5zGoa8VGokxFbMiVhKVlRqzgCCg0WtRdcBl3GHYGsSHRS48NQPlrB5UiaoWTx64OqA2CuUR8;
+        this.DrqQ8C7rtVRDTSclHGsDImq = wxb0qvqhswul8vrxkkbslrnk5urnk8u0eo1klvjtk4di22c3qvszwtipok8kppaijvk9i3qm8jfjlcaw8qtbleiujz8cr;
+    }
+
+    public final LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5 P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d() {
+        File canonicalFile = ((File) this.DrqQ8C7rtVRDTSclHGsDImq.YmFIHVAy6MFnHbke10dLWI57IXCp()).getCanonicalFile();
+        synchronized (oyvK1kTrRf3tlj9fHjZjN6freUc3VsJnyo10eIgiHGpIjYVqzmOqLAZyI78j0nhqnpvpZBYcayT3cwe9aGiIeTqRiS9dC9fYyEc1BLd6JBDW4vtIRArnnO7yLJU) {
+            String absolutePath = canonicalFile.getAbsolutePath();
+            LinkedHashSet linkedHashSet = VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU;
+            if (!linkedHashSet.contains(absolutePath)) {
+                wQHIhZJqxGpxVvC40dPLgAjr2Ens6.LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5.oyvK1kTrRf3tlj9fHjZjN6freUc3VsJnyo10eIgiHGpIjYVqzmOqLAZyI78j0nhqnpvpZBYcayT3cwe9aGiIeTqRiS9dC9fYyEc1BLd6JBDW4vtIRArnnO7yLJU(absolutePath, "path");
+                linkedHashSet.add(absolutePath);
+            } else {
+                throw new IllegalStateException(("There are multiple DataStores active for the same file: " + absolutePath + ". You should either maintain your DataStore as a singleton or confirm that there is no two DataStore's active on the same file (by confirming that the scope is cancelled).").toString());
+            }
+        }
+        return new LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5(canonicalFile, this.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d, (EnNc7SVYfYqptNNzq0TcpAdB8G4Z7pbaMOTXeAzA1CWVek7QlMG0s737oWqFiOR1S9th0V72HWjEc0seM9MCNdloauv5ykgfvxfQlHAhjCcYE7j9TI6LelwxFiK4p8kiae0zH388Hy0I4f1ktyvIpdpC2ec93jBA) this.YmFIHVAy6MFnHbke10dLWI57IXCp.invoke(canonicalFile), new Wdifhqd1IWf4CI4lVc5An8O3A6Hv.wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr(11, canonicalFile));
+    }
+}

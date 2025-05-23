@@ -1,0 +1,5 @@
+package GoFCUuwqErnrb2r45x023vhUEx6UQwBGoM7kMFnhVyM4x8wCiSRUqeYkpFFUIkUoPalGUXpkxgUIHiPEWdHgHVNXvcoonIk1uanQx;
+
+public interface MTpeiijAJ8dSu4iDwUKM27bbbQsDXmNCQDn3Wx2o8le4Vr82KACBN9iABJg6G2uXik2sYlV7IlADCi1WYpWzCT5Whv6cPPkTBH8IfZGGdqZjASOlqOl0AiaDdv5fOn2SAqqrBVER6OHLJnMyba8cCxuTGUUEWY3s {
+    Object apply(Object obj);
+}

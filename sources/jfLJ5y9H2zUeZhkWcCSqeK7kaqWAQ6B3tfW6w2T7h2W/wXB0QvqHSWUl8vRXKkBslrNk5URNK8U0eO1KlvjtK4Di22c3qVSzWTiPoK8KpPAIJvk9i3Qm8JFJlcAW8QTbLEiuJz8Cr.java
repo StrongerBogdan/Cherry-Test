@@ -1,0 +1,6 @@
+package jfLJ5y9H2zUeZhkWcCSqeK7kaqWAQ6B3tfW6w2T7h2W;
+
+import android.os.IInterface;
+
+public interface wXB0QvqHSWUl8vRXKkBslrNk5URNK8U0eO1KlvjtK4Di22c3qVSzWTiPoK8KpPAIJvk9i3Qm8JFJlcAW8QTbLEiuJz8Cr extends IInterface {
+}

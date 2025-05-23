@@ -1,0 +1,6 @@
+package niHrM4lpXZMz6YMtpgKZjl6wuI0gjgIPVPOxEg94M9CZNpl0ZaEJMAVMBlbDj85HaYovaltFDeN5RO7qRFNH6b65TL442Etd6EuwG5csILQXH9v5JcbmovUK0EBrhdBk0Xrukofv29GENx2PkCAl;
+
+import java.io.IOException;
+
+public final class LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA extends IOException {
+}

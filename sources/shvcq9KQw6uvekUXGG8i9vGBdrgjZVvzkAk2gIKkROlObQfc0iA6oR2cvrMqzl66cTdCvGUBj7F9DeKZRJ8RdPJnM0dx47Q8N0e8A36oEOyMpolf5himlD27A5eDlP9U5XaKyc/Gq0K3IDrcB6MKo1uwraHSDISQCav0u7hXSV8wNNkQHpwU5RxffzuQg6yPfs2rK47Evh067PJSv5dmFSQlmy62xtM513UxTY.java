@@ -1,0 +1,14 @@
+package shvcq9KQw6uvekUXGG8i9vGBdrgjZVvzkAk2gIKkROlObQfc0iA6oR2cvrMqzl66cTdCvGUBj7F9DeKZRJ8RdPJnM0dx47Q8N0e8A36oEOyMpolf5himlD27A5eDlP9U5XaKyc;
+
+import LpJrvPJZgfMWhzDqYlD5h2rrEkHInLSqeG19dMLEUepln6GC1EX3oXOEKIA4hj2lSfZGJJ2x3n3mSMX6.cQpWp7khq2fiuZHOXpA9yYbRyhmneZQO9OSGMiUp5qnmmQqj00YZtSGXuaSu;
+import android.text.StaticLayout;
+
+public abstract class Gq0K3IDrcB6MKo1uwraHSDISQCav0u7hXSV8wNNkQHpwU5RxffzuQg6yPfs2rK47Evh067PJSv5dmFSQlmy62xtM513UxTY {
+    public static final boolean P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d(StaticLayout staticLayout) {
+        return staticLayout.isFallbackLineSpacingEnabled();
+    }
+
+    public static final void YmFIHVAy6MFnHbke10dLWI57IXCp(StaticLayout.Builder builder, int i, int i2) {
+        builder.setLineBreakConfig(cQpWp7khq2fiuZHOXpA9yYbRyhmneZQO9OSGMiUp5qnmmQqj00YZtSGXuaSu.P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d().setLineBreakStyle(i).setLineBreakWordStyle(i2).build());
+    }
+}

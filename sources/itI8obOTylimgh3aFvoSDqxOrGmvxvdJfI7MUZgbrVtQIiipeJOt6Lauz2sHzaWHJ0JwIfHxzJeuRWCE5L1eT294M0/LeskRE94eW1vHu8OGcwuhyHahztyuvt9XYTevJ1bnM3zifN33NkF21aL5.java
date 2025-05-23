@@ -1,0 +1,6 @@
+package itI8obOTylimgh3aFvoSDqxOrGmvxvdJfI7MUZgbrVtQIiipeJOt6Lauz2sHzaWHJ0JwIfHxzJeuRWCE5L1eT294M0;
+
+import java.nio.channels.ReadableByteChannel;
+
+public interface LeskRE94eW1vHu8OGcwuhyHahztyuvt9XYTevJ1bnM3zifN33NkF21aL5 extends rvh43jacaJiH3b3o9XeSMDe544, ReadableByteChannel {
+}

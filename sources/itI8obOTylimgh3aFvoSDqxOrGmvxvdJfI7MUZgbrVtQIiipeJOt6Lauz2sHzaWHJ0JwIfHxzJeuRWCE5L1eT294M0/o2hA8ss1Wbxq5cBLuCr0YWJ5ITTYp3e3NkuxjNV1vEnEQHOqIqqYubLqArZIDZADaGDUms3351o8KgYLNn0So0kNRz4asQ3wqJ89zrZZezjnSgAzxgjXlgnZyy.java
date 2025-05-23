@@ -1,0 +1,14 @@
+package itI8obOTylimgh3aFvoSDqxOrGmvxvdJfI7MUZgbrVtQIiipeJOt6Lauz2sHzaWHJ0JwIfHxzJeuRWCE5L1eT294M0;
+
+import java.io.Closeable;
+import java.io.Flushable;
+
+public interface o2hA8ss1Wbxq5cBLuCr0YWJ5ITTYp3e3NkuxjNV1vEnEQHOqIqqYubLqArZIDZADaGDUms3351o8KgYLNn0So0kNRz4asQ3wqJ89zrZZezjnSgAzxgjXlgnZyyI3D7c7A extends Closeable, Flushable {
+    void H0pSch9XQw75sQDNHGRLAUbXt3bOxqOZ(MTpeiijAJ8dSu4iDwUKM27bbbQsDXmNCQDn3Wx2o8le4Vr82KACBN9iABJg6G2uXik2sYlV7IlADCi1WYpWzCT5Whv6cPPkTBH8IfZGGdqZjASOlqOl0AiaDdv5fOn2SAqqrBVER6OHLJnMyba8cCxuTGUUEWY3s mTpeiijAJ8dSu4iDwUKM27bbbQsDXmNCQDn3Wx2o8le4Vr82KACBN9iABJg6G2uXik2sYlV7IlADCi1WYpWzCT5Whv6cPPkTBH8IfZGGdqZjASOlqOl0AiaDdv5fOn2SAqqrBVER6OHLJnMyba8cCxuTGUUEWY3s, long j);
+
+    uKo7OCHL2lMivEF7eLsPf5oYebQSCeIRWH VEYmeyCFoRLjkmCxEb3wL7OVAF7pTlbwD8LmwrlOYz0mwEU();
+
+    void close();
+
+    void flush();
+}

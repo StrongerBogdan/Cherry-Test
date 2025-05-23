@@ -1,0 +1,5 @@
+package androidx.datastore.preferences.protobuf;
+
+/* 'enum' modifier removed */
+public final class cusxATjiW1ZOSMeHUteWQKY8mhK3gDYxyVrs3bE4wC1urKk3LOklxZulu24zv9Kp90wYog7I extends TibRsoWe1w09aipIqud3HqqyT20n1sFBgAJL35C24INunXWEOdzFZGCItFeS3wzYlHHX0uD08Isfa5cDQReLT3wRq5zpyiVzQZWToJo4GuRnBRoyphY6 {
+}

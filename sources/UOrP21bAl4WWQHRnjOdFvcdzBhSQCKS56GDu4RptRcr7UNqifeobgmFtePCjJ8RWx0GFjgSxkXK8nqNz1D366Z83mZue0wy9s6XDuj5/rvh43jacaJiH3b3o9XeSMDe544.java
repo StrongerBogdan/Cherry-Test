@@ -1,0 +1,7 @@
+package UOrP21bAl4WWQHRnjOdFvcdzBhSQCKS56GDu4RptRcr7UNqifeobgmFtePCjJ8RWx0GFjgSxkXK8nqNz1D366Z83mZue0wy9s6XDuj5;
+
+public interface rvh43jacaJiH3b3o9XeSMDe544 {
+    void P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d();
+
+    void cancel();
+}

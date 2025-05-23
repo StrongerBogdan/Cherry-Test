@@ -1,0 +1,19 @@
+package androidx.profileinstaller;
+
+import B3PwWri6DSCoKraVluZjHaYZBf4Lra3UOWVB2XDM1KMB7OhKt20cO66HHxEdolbRaQev0TMOd0xc0bCAhppBTe703AYmEST1PHX6D9o2QFzGpBJe85D0v1a3US.LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA;
+import GAfZtakVLpoBFIWNNPQMlLUXIec.Um9b2ks8Y0LiK3u4FrDpXIUf9CDB20azqNED8tqUF5QXjqNMzV6NToOBBjWfuzhJwt8AdCxM1KC0y54xLsKDQKV5vpV75DQjOjBEi7ECY0uxjR1BVNeGxeMiDLdAwy33RHeQ9vkNdSttO818vnfVccP8CWp;
+import android.content.Context;
+import android.view.Choreographer;
+import java.util.Collections;
+import java.util.List;
+
+public class ProfileInstallerInitializer implements LKFldPfJcfBOZk1ncAfiSAO9DSiHzm0uqAwf7xsiw0paTNGoPF04cSy0FnCarywzMgv3IbA {
+    public final List P6WU5Fb80VNGO5Et4Io8BBRMy5iYWzEMiOWjFQ6aC1H5bM4J2Re3zDKrWeh8bMHmbdtoHUf6AF0k9EVEcdtch1VlBNZCDNBHyq8pJxCnCnBKiHKrl8ianGdd8GWwoH0w5UEx6qiiTrAdRWvKBvkoKS24HXJp2d() {
+        return Collections.emptyList();
+    }
+
+    public final Object YmFIHVAy6MFnHbke10dLWI57IXCp(Context context) {
+        Choreographer.getInstance().postFrameCallback(new Um9b2ks8Y0LiK3u4FrDpXIUf9CDB20azqNED8tqUF5QXjqNMzV6NToOBBjWfuzhJwt8AdCxM1KC0y54xLsKDQKV5vpV75DQjOjBEi7ECY0uxjR1BVNeGxeMiDLdAwy33RHeQ9vkNdSttO818vnfVccP8CWp(this, context.getApplicationContext()));
+        return new BBLgU2sZePRB1X9JRGvMPg1Mwx1Zs997nBMSutiVbXn4Hz8t8sj8RKKj76TkXM1opLAZ71SD9qNfXni.Um9b2ks8Y0LiK3u4FrDpXIUf9CDB20azqNED8tqUF5QXjqNMzV6NToOBBjWfuzhJwt8AdCxM1KC0y54xLsKDQKV5vpV75DQjOjBEi7ECY0uxjR1BVNeGxeMiDLdAwy33RHeQ9vkNdSttO818vnfVccP8CWp(7);
+    }
+}
